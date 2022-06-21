@@ -45,7 +45,19 @@ def searchActor(name):
     user = apiAuth.get_user(screen_name = name)
 
     results=[]
-    
+    my_followers = []
+    my_followers_id = []
+    my_following = []
+
+    for friend in tweepy.Cursor(apiAuth.get_friends, screen_name="bcvorwerck").items():
+        my_following.append(friend.screen_name)
+        
+    for follower in tweepy.Cursor(apiAuth.get_followers, screen_name="bcvorwerck").items():
+        my_followers.append(follower.screen_name)
+
+    for followerid in tweepy.Cursor(apiAuth.get_follower_ids, screen_name="bcvorwerck").items():
+        my_followers_id.append(followerid)
+
     if not user is None :
         userId = user.id
         userName = user.screen_name
@@ -58,7 +70,8 @@ def searchActor(name):
         userFav_count = user.status.favorite_count
 
         line = {'ID': userId, 'NAME': userName, 'NB_FOLLOWER': userFollower, 'NB_FOLLOW': userFollow, 'LOCATION': location,
-        'VERIFIED': userVerified, 'DESCRIPTION': userDescription, 'COUNT_RT': userRt_count, 'COUNT_FAV': userFav_count }
+        'VERIFIED': userVerified, 'DESCRIPTION': userDescription, 'COUNT_RT': userRt_count, 'COUNT_FAV': userFav_count, 
+        'NAME_FOLLOWERS': my_followers, 'NAME_FOLLOWING': my_following, 'ID_FOLLOWERS': my_followers_id}
         results.append(line)
 
     return results
@@ -75,7 +88,7 @@ def search_usersTweets_info():
 
 
 def search_users_info():
-    listOfActeurs = ["EmmanuelMacron", "EmmanuelMacron"]
+    listOfActeurs = ["bcvorwerck"] # "EmmanuelMacron"
     resultss = []
     
     for userName in listOfActeurs:
@@ -83,7 +96,19 @@ def search_users_info():
         
     return resultss
 
-#################################### Exécution ##################################################
+#################################### Pour palier le limit rate ####################################
+
+# ids = []
+# apiAuth = authenticate()
+# for page in tweepy.Cursor(apiAuth.get_follower_ids, screen_name="bcvorwerck").pages():
+#     ids.extend(page)
+#     time.sleep(60)
+# print(ids)
+
+# mettre une condition if page avant le time.sleep je crois
+
+
+############################################ Exécution #############################################
 
 resultat = search_users_info()
 # resultat = search_usersTweets_info()
@@ -92,6 +117,7 @@ print(resultat)
 
 datafr = pd.DataFrame(resultat)
 datafr.to_csv('tabUserv.csv',encoding='utf-8-sig')
+
 
 
 

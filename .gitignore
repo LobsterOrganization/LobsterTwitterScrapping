@@ -6,3 +6,4 @@ config.py
 
 # annexe files
 test.py
+__pycache__

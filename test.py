@@ -9,23 +9,25 @@ def authenticate():
     auth = tweepy.OAuthHandler(config.TWITTER_CONSUMER_KEY, config.TWITTER_CONSUMER_SECRET)
     auth.set_access_token(config.TWITTER_ACCESS_TOKEN, config.TWITTER_ACCESS_TOKEN_SECRET)    
     api = tweepy.API(auth)
-    c = tweepy.Cursor(api.search,
-                       q=search,
-                       include_entities=True).items()
-    while True:
-        try:
-            tweet = c.next()
-            # Insert into db
-        except tweepy.TweepError:
-            time.sleep(60 * 15)
-            continue
-        except StopIteration:
-            break
+    # c = tweepy.Cursor(api.search,
+    #                    q=search,
+    #                    include_entities=True).items()
+
     return api
+
+# def authenticateCursor():
+#     auth = tweepy.OAuthHandler(config.TWITTER_CONSUMER_KEY, config.TWITTER_CONSUMER_SECRET)
+#     auth.set_access_token(config.TWITTER_ACCESS_TOKEN, config.TWITTER_ACCESS_TOKEN_SECRET)    
+#     api = tweepy.API(auth)
+#     c = tweepy.Cursor(api.search,
+#                        q=search,
+#                        include_entities=True).items()
+
+#     return c
 
 def searchActor(name):
     
-    apiAuth = authenticate()
+    apiAuth = authenticateCursor()
     user = apiAuth.get_user(screen_name = name)
     
     results=[]
@@ -47,13 +49,37 @@ def searchActor(name):
 
     return results
 
+# ids = []
+# apiAuth = authenticate()
+# for page in tweepy.Cursor(apiAuth.get_follower_ids, screen_name="bcvorwerck").pages():
+#     ids.extend(page)
+#     time.sleep(60)
+    
+# print(ids)
+
 ids = []
 apiAuth = authenticate()
-for page in tweepy.Cursor(apiAuth.get_follower_ids, screen_name="DebieCste").pages():
-    ids.extend(page)
-    time.sleep(2)
+for page in tweepy.Cursor(apiAuth.get_follower_ids, screen_name="bcvorwerck").items():
+    ids.append(page)
+    time.sleep(60)
+    
+print(ids)
 
-print(len(ids))
+# my_followers = []
+# apiAuth = authenticate()
+# for follower in tweepy.Cursor(apiAuth.followers, screen_name).items():
+#     my_followers.append(follower.screen_name)
+#     time.sleep(2)
+
+for user in tweepy.Cursor(apiAuth.get_friends, screen_name="bcvorwerck").items():
+    my_followers.append(user.screen_name)
+
+
+for user in tweepy.Cursor(apiAuth.get_followers, screen_name="bcvorwerck").items():
+    my_followers.append(user.screen_name)
+
+
+# print(my_followers)
 
 # userID = "EmmanuelMacron"
 # resultss = []
