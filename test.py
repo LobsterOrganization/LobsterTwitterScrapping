@@ -1,4 +1,5 @@
 import tweepy
+import time
 import json
 import config
 import pandas as pd
@@ -8,6 +9,18 @@ def authenticate():
     auth = tweepy.OAuthHandler(config.TWITTER_CONSUMER_KEY, config.TWITTER_CONSUMER_SECRET)
     auth.set_access_token(config.TWITTER_ACCESS_TOKEN, config.TWITTER_ACCESS_TOKEN_SECRET)    
     api = tweepy.API(auth)
+    c = tweepy.Cursor(api.search,
+                       q=search,
+                       include_entities=True).items()
+    while True:
+        try:
+            tweet = c.next()
+            # Insert into db
+        except tweepy.TweepError:
+            time.sleep(60 * 15)
+            continue
+        except StopIteration:
+            break
     return api
 
 def searchActor(name):
@@ -34,7 +47,13 @@ def searchActor(name):
 
     return results
 
+ids = []
+apiAuth = authenticate()
+for page in tweepy.Cursor(apiAuth.get_follower_ids, screen_name="DebieCste").pages():
+    ids.extend(page)
+    time.sleep(2)
 
+print(len(ids))
 
 # userID = "EmmanuelMacron"
 # resultss = []
@@ -56,9 +75,9 @@ def search_oneUser_info(actorName):
     return resultss
 
     
-resultat = search_oneUser_info("EmmanuelMacron")
+# resultat = search_oneUser_info("EmmanuelMacron")
 
-print(resultat)
+# print(resultat)
 
-datafr = pd.DataFrame(resultat)
-datafr.to_csv('tabUserv1.csv')
+# datafr = pd.DataFrame(resultat)
+# datafr.to_csv('tabUserv1.csv')

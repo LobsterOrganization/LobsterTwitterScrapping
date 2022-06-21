@@ -1,5 +1,6 @@
 # This is a sample Python script. MONGODB mdp: twitter123456
 import tweepy
+import time
 import json
 import config
 import pandas as pd
@@ -40,10 +41,11 @@ def searchTweets(name):
 def searchActor(name):
     
     apiAuth = authenticate()
+
     user = apiAuth.get_user(screen_name = name)
-    
+
     results=[]
-     
+    
     if not user is None :
         userId = user.id
         userName = user.screen_name
@@ -62,7 +64,7 @@ def searchActor(name):
     return results
    
 
-def search_user_info():
+def search_usersTweets_info():
     userID = ["Mediavenir", "CNR_Officiel"]
     resultss = []
     
@@ -72,20 +74,24 @@ def search_user_info():
     return resultss
 
 
-def search_oneUser_info(actorName):
+def search_users_info():
+    listOfActeurs = ["EmmanuelMacron", "EmmanuelMacron"]
     resultss = []
     
-    resultss.extend(searchActor(actorName))
+    for userName in listOfActeurs:
+        resultss.extend(searchActor(userName))     
         
     return resultss
 
+#################################### Exécution ##################################################
 
-
-resultat = search_oneUser_info("EmmanuelMacron")
-# resultat = search_user_info()
+resultat = search_users_info()
+# resultat = search_usersTweets_info()
 
 print(resultat)
 
 datafr = pd.DataFrame(resultat)
-datafr.to_csv('tabUserv.csv')
+datafr.to_csv('tabUserv.csv',encoding='utf-8-sig')
+
+
 
