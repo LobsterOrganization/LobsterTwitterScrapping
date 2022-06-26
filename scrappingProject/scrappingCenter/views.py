@@ -88,7 +88,7 @@ def index(request):
     client = getClient()
     tweets = searchTweetsWordDictionnary(client, word_dictionnary)
     all_tweet = pd.DataFrame(tweets)
-    all_tweet.to_csv('First_Dataset.csv')    
+    all_tweet.to_csv('First_Dataset.csv', index = False, encoding="utf-8-sig")    
     print(all_tweet)
     return HttpResponse("Hello world!")
 # Create your views here.
