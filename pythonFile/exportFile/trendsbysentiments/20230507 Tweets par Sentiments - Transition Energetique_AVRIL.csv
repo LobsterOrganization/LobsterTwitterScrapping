@@ -1,0 +1,755 @@
+Content,Date,Jour,Mois,Année,Utilisateur,Thème,Score,Compound,Sentiment,Mentions principales
+"Alors que le monde entier parle de la transition énergétique, du réchauffement climatique, de l'intelligence artificielle , en RDC, on continue à parler de congolité, du clash entre Fally et Gims, du tabassage de Mr Christian Bosenge...Et vous voulez qu'on vous respecte !",2023-04-02,2,4,2023,Jean Baptiste Bokoto,,"{'neg': 0.0, 'neu': 0.837, 'pos': 0.163, 'compound': 0.8173}",0.8173,Positif,"['climat', 'monde']"
+"C'est surtout que si l'on peut faire autrement, pourquoi détruire 700 ha de forêts sur cette montagne?
+La transition énergétique ne doit pas se faire n'importe où, n'importe comment, et pas au détriment de la nature et de la biodiversité.
+QUI pr y veiller?",2023-04-02,2,4,2023,Sauvegarde Paysages d'Iroise,,"{'neg': 0.064, 'neu': 0.767, 'pos': 0.169, 'compound': 0.4682}",0.4682,Positif,[]
+"Gros défis! La politique environnementale de la Chine oscille entre les extrêmes. Il y a aussi des chantiers majeurs pour opérer la transition énergétique. Mais la probabilité de voir des scientifiques choisir ce type d’action directe là-bas est faible, disons.",2023-04-02,2,4,2023,Chloé Sondervorst,,"{'neg': 0.064, 'neu': 0.822, 'pos': 0.113, 'compound': 0.2942}",0.2942,Positif,['politique']
+"Comment faire pour que des populations de #RDC ne payent pas le prix de notre transition énergétique ? Commencer par faire appliquer le code minier pardi! #Reportage sans concession ""les damnés du cobalt"" @EnvoyeSpecial: france.tv/france-2/envoye-sp…
+#mine, #cobalt et #developpement",2023-04-02,2,4,2023,Reevolution Productions,,"{'neg': 0.059, 'neu': 0.768, 'pos': 0.173, 'compound': 0.6669}",0.6669,Positif,"['france', 'prix']"
+L'eolienne est un électricité très cher et fortement imprévisible. Elles ne donnent leur pleine puissance que quand le vent souffle entre 50 et 90kms/h ! Elles ont défiguré notre pays et permis à des politiciens corrompus de s'enrichir sur le mensonge de la transition énergétique,2023-04-02,2,4,2023,Celestino,,"{'neg': 0.037, 'neu': 0.75, 'pos': 0.213, 'compound': 0.8377}",0.8377,Positif,['électricité']
+"« La République démocratique du Congo recèle la plus importante réserve mondiale en cobalt, un minerai crucial à la transition énergétique mondiale. » sans le cobalt ton iPhone n’existe pas.",2023-04-02,2,4,2023,mina,,"{'neg': 0.04, 'neu': 0.87, 'pos': 0.09, 'compound': 0.3826}",0.3826,Positif,['mondial']
+"Les pays du golf jouent a un jeu dangereux, ça va inciter le reste du monde a accélérer la transition énergétique, avec l'hydro et le nucléaire, donc a termes détruire leur économie...",2023-04-02,2,4,2023,Estaw,,"{'neg': 0.224, 'neu': 0.66, 'pos': 0.116, 'compound': -0.6818}",-0.6818,Negatif,"['nucléaire', 'économie', 'accélérer', 'monde']"
+"Mais pour la transition énergétique il faut du pétrole.
+🤷🏾‍♂️",2023-04-02,2,4,2023,Nation Indépendante,,"{'neg': 0.0, 'neu': 0.838, 'pos': 0.162, 'compound': 0.4404}",0.4404,Positif,['pétrole']
+"Logique, cela fait partie intégrante de l'agenda 2030 de Davos et des mondialistes qui ont pour objectif le grand reset, la transition énergétique, la monnaie électronique et le transhumanisme au programme, bienvenu dans cette fin des temps annoncée.",2023-04-02,2,4,2023,Jacques Hicham,,"{'neg': 0.0, 'neu': 0.862, 'pos': 0.138, 'compound': 0.7345}",0.7345,Positif,"['temps', 'mondial', 'objectif']"
+"existantes contre des travaux, la Commission a refusé le projet EDF de la Truyère pourtant fondé sur des objectifs de transition énergétique, au motif que cela n’était pas permis par la directive Concessions. Un important potentiel hydroélectrique...",2023-04-02,2,4,2023,Eric Sartori,,"{'neg': 0.102, 'neu': 0.758, 'pos': 0.14, 'compound': 0.2268}",0.2268,Positif,"['projet', 'électrique', 'objectif']"
+"🔵 EXCLUSIF | Agnès Pannier-Runacher, ministre de la Transition énergétique, présente ce lundi à de grandes entreprises les résultats d’une étude sur l’impact du télétravail sur la sobriété énergétique
+
+Il serait positif, sous certaines conditions...
+l.leparisien.fr/NTlB",2023-04-02,2,4,2023,Le Parisien | Ma Terre,,"{'neg': 0.0, 'neu': 0.657, 'pos': 0.343, 'compound': 0.8987}",0.8987,Positif,"['ministre', 'entreprise']"
+"🔵 EXCLUSIF | Agnès Pannier-Runacher, ministre de la Transition énergétique, présente ce lundi à de grandes entreprises les résultats d’une étude sur l’impact du télétravail sur la sobriété énergétique
+
+Il serait positif, sous certaines conditions...
+l.leparisien.fr/TVoF",2023-04-02,2,4,2023,Le Parisien,,"{'neg': 0.0, 'neu': 0.657, 'pos': 0.343, 'compound': 0.8987}",0.8987,Positif,"['ministre', 'entreprise']"
+"🔵 EXCLUSIF | Agnès Pannier-Runacher, ministre de la Transition énergétique, présente ce lundi à de grandes entreprises les résultats d’une étude sur l’impact du télétravail sur la sobriété énergétique
+
+Il serait positif, sous certaines conditions...
+l.leparisien.fr/c2tH",2023-04-02,2,4,2023,Le Parisien | économie,,"{'neg': 0.0, 'neu': 0.657, 'pos': 0.343, 'compound': 0.8987}",0.8987,Positif,"['ministre', 'entreprise']"
+Le futur ne sera pas ce qu’on en dit parce qu’on n’en sait rien et pour s’être trompé sur tout antérieurement. Mettre le paquet sur la transition énergétique alors que des familles qui contribuent par leurs taxes aux caisses gouvernementales sont dans la misère est irrationnel.,2023-04-02,2,4,2023,Yva Souriac,,"{'neg': 0.109, 'neu': 0.782, 'pos': 0.109, 'compound': -0.25}",-0.25,Negatif,['gouvernement']
+"Sans la légende c'est pas top. On voit tout de même des parcs éoliens et PV, une mine de lithium, Cigéo. Tout cela est plus que nécessaire pour la transition énergétique.",2023-04-02,2,4,2023,Sylvain Maroufle,,"{'neg': 0.036, 'neu': 0.812, 'pos': 0.151, 'compound': 0.6593}",0.6593,Positif,['éolien']
+"Recrutement Alternant Chargé de projet développement durable H/F 
+#alternance #Lyon #transition #énergétique
+orientation-environnement.fr…",2023-04-02,2,4,2023,🌍 Orientation Environnement,,"{'neg': 0.108, 'neu': 0.719, 'pos': 0.174, 'compound': 0.3382}",0.3382,Positif,"['projet', 'développement', 'durable']"
+L’ONG Les Amis de la Terre – Togo mobilise les OSC et les médias pour une transition énergétique juste societecivilemedias.com/2023… via @Société Civile Médias @adttogo @amisdelaterre @jeunesvertsong,2023-04-02,2,4,2023,Société Civile Médias,,"{'neg': 0.0, 'neu': 0.806, 'pos': 0.194, 'compound': 0.7639}",0.7639,Positif,['vert']
+"☝ L'exemple à suivre : l'Hôtel Pietracap, à San Martino di Lota, qui s’est engagé dans une démarche de transition énergétique en passant au solaire thermique ☀️ Dà scopre quì : urlz.fr/l94M
+#transitionenergetique #solairethermique",2023-04-02,2,4,2023,AUE,,"{'neg': 0.0, 'neu': 0.89, 'pos': 0.11, 'compound': 0.5411}",0.5411,Positif,['solaire']
+Vélo à l'énergie hydrogène présenté par une entreprise chinoise. La transition énergétique est un processus à multiples voies. Quelle technologie va enfin gagner la course?,2023-04-02,2,4,2023,Zhu Jing 朱京,,"{'neg': 0.0, 'neu': 0.825, 'pos': 0.175, 'compound': 0.6249}",0.6249,Positif,"['énergie', 'entreprise']"
+De bunkers sur quoi ?! Sur le fait qu’une mine de lithium c’est un désastre écologique et humain ?! Que les besoins en métaux pour la soit disant transition énergétique sont juste délirants et soit impossibles sont dramatiques si ils ont lieu… ?,2023-04-03,3,4,2023,Larco,,"{'neg': 0.131, 'neu': 0.694, 'pos': 0.175, 'compound': -0.4449}",-0.4449,Negatif,"['écologique', 'besoin']"
+"Transition énergétique,  la charrue avant les bœufs !",2023-04-03,3,4,2023,zertal salim,,"{'neg': 0.0, 'neu': 0.715, 'pos': 0.285, 'compound': 0.4926}",0.4926,Positif,[]
+"La meuf est ministre de la transition énergétique. Un tout petit sujet. 
+Vous vouledz savoir pourquoi vous ne voyez plus l'apôtre de la magie-hun?
+disclose.ngo/fr/article/petr…",2023-04-03,3,4,2023,juni🐢💧🔻φreeJulianAssange,,"{'neg': 0.0, 'neu': 0.9, 'pos': 0.1, 'compound': 0.4404}",0.4404,Positif,['ministre']
+"""La transition énergétique ne sera pas pour la France un long fleuve tranquille: et voilà pourquoi""
+""En conclusion #éolien et solaire ne peuvent pas être des sources d’électricité autonomes ; elles ne peuvent pas fournir une puissance électrique garantie""
+atlantico.fr/article/decrypt…",2023-04-03,3,4,2023,Sauvegarde Paysages d'Iroise,,"{'neg': 0.046, 'neu': 0.818, 'pos': 0.136, 'compound': 0.4523}",0.4523,Positif,"['électrique', 'éolien', 'solaire', 'électricité']"
+Mariage pour tous mais aussi Etat d'urgence et terrorisme - non cumul des mandats - prime d'activité- transition énergétique - transparence de la vie publique - loi santé- accord sur le climat - et puis malheureusement la loi travail.,2023-04-03,3,4,2023,Vousetmoi4,,"{'neg': 0.173, 'neu': 0.661, 'pos': 0.165, 'compound': -0.34}",-0.34,Negatif,"['climat', 'santé']"
+Il serait beaucoup plus intelligent de continuer à se développer pour financer la transition énergétique en Afrique (1.4 Md d’habitants) que de se mettre nous-mêmes dans un régime de décroissance,2023-04-03,3,4,2023,HugoMe,,"{'neg': 0.053, 'neu': 0.858, 'pos': 0.089, 'compound': 0.3548}",0.3548,Positif,['financer']
+"L'avantage des annonces de réduction de production de pétrole de 🇸🇦 ,🇷🇺🇦🇪etc , ça accélère la transition énergétique, solaire et hydrogène etc...
+medias24.com/2023/04/03/taqa…",2023-04-03,3,4,2023,midou casa,,"{'neg': 0.07, 'neu': 0.737, 'pos': 0.193, 'compound': 0.5862}",0.5862,Positif,"['pétrole', 'production', 'solaire']"
+"Honnêtement si c'est écrit sur leur site c'est qu'on peut les croire. D'ailleurs c'est aussi écrit sur le site de total qu'ils sont engagés dans la transition énergétique.
+En attendant dans le rapport de la miviludes 2021  :",2023-04-03,3,4,2023,Plouf,,"{'neg': 0.0, 'neu': 0.747, 'pos': 0.253, 'compound': 0.8883}",0.8883,Positif,[]
+"La ministre de la Transition énergétique Agnès Pannier-Runacher a présenté lundi 3 avril 2023 aux entreprises de nouvelles mesures de sobriété énergétique. Détails ⤵️
+actu.fr/planete/energies/110…",2023-04-03,3,4,2023,actu.fr,,"{'neg': 0.041, 'neu': 0.759, 'pos': 0.2, 'compound': 0.7088}",0.7088,Positif,"['ministre', 'entreprise', 'plan']"
+"🆕#44: Comment aider les entreprises🇫🇷 vers la transition écologique avec @Anne__Guerin, responsable du plan climat @Bpifrance 
+
+ + ne loupez pas la journée organisée par @Bpifrance sur les enjeux de transition énergétique & écologique pour les entreprises bpifrance.fr/nos-evenements/…",2023-04-03,3,4,2023,Le Climat en Questions,,"{'neg': 0.0, 'neu': 0.799, 'pos': 0.201, 'compound': 0.8221}",0.8221,Positif,"['climat', 'france', 'entreprise', 'plan', 'écologique']"
+"Bloomberg NEF qui classe Shell, Total, Repsol, etc. parmi les sociétés les mieux notées en matière de transition énergétique bas carbone 🤡 #greenwashing",2023-04-03,3,4,2023,Apollodore,,"{'neg': 0.076, 'neu': 0.683, 'pos': 0.241, 'compound': 0.5983}",0.5983,Positif,['matière']
+Tout est possible avec le pognon de l'étatisme. Il faut une transition énergétique maintenant! 😊,2023-04-03,3,4,2023,Libertarian Friend,,"{'neg': 0.0, 'neu': 0.664, 'pos': 0.336, 'compound': 0.8221}",0.8221,Positif,[]
+"La même réthorique que les zadistes. Contre tout, y compris ce qui permet d’assurer la transition énergétique.",2023-04-03,3,4,2023,Naboléon 🇫🇷🇪🇺 Хуй войне!,,"{'neg': 0.0, 'neu': 0.847, 'pos': 0.153, 'compound': 0.4404}",0.4404,Positif,[]
+"Autant que la votre de parler de transition énergétique avec les membres du board d’EE qui roulent en gros suv, quand l’écologie devient un business ….",2023-04-03,3,4,2023,medethic,,"{'neg': 0.053, 'neu': 0.845, 'pos': 0.102, 'compound': 0.4003}",0.4003,Positif,[]
+Vous souhaitez être acteur de la transition énergétique et relever les défis du numérique? #Capacitéd'adaptation #Analyseespritdesynthèse #Sensdesresponsabilités myjob.company/fr/offres-empl… via @MyJobCompany,2023-04-03,3,4,2023,steeve603,,"{'neg': 0.0, 'neu': 0.809, 'pos': 0.191, 'compound': 0.5423}",0.5423,Positif,[]
+"L'histoire retiendra que vs avez imprimé une nouvelle dynamique au sein de ce Ministère,sous la vision éclairée du #PR05 @fatshi13 ,jusqu'à placer la RDC au coeur des enjeux dla #Transition_énergétique pour qu'elle joue le rôle de catalyseur dans ce processus.
+
+Force à Vous #Exc",2023-04-03,3,4,2023,Moise Mbuluku,,"{'neg': 0.054, 'neu': 0.761, 'pos': 0.185, 'compound': 0.8309}",0.8309,Positif,[]
+"L'histoire retiendra que vs avez imprimé une nouvelle dynamique au sein de ce Ministère,sous la vision éclairée du #PR05 @fatshi13 ,jusqu'à placer la RDC au coeur des enjeux dla #Transition_énergétique pour qu'elle joue le rôle de catalyseur dans ce processus.
+
+Force à Vous #Exc",2023-04-03,3,4,2023,Moise Mbuluku,,"{'neg': 0.054, 'neu': 0.761, 'pos': 0.185, 'compound': 0.8309}",0.8309,Positif,[]
+"Si @TransvillesInfo optait pour un bus d'occasion, celui-ci aurait droit au rétrofit bioGNV, électrique ou hydrogène pour une transition énergétique moins chère.",2023-04-03,3,4,2023,Le Ferroviphile,,"{'neg': 0.0, 'neu': 0.801, 'pos': 0.199, 'compound': 0.6378}",0.6378,Positif,['électrique']
+"1/2 Comment l’Allemagne compte réussir sa transition énergétique sans le nucléaire
+
+De 5 à 8 millions de postes, selon différentes études, seront vacants d’ici 2030 sur le marché allemand du travail. Il manque déjà 190.000 personnels dans le domaine lesoir.be/archive/d-20230403…",2023-04-03,3,4,2023,Umberto GAMBINI 🇪🇺🏴󠁧󠁢󠁳󠁣󠁴󠁿🇪🇺🇮🇹🇪🇺,,"{'neg': 0.028, 'neu': 0.808, 'pos': 0.164, 'compound': 0.795}",0.795,Positif,"['nucléaire', 'allemand']"
+"Bougeons plus rapidement!
+
+Pour assurer sa transition énergétique, le Japon va massivement investir dans l’hydrogène courrierinternational.com/ar…",2023-04-04,4,4,2023,classerichelieu,,"{'neg': 0.0, 'neu': 0.754, 'pos': 0.246, 'compound': 0.5983}",0.5983,Positif,[]
+"Ça fait des siècles que la roue n’a pas tourné. Le monde arabe ne peut se mettre qu’à la remorque d’une superpuissance. Lorsque la transition énergétique sera achevée, vous aurez la paix mais plus une tune. Je ne sais pas si ce sera mieux.",2023-04-04,4,4,2023,Benoit 🇫🇷🇺🇦🐟,,"{'neg': 0.0, 'neu': 0.825, 'pos': 0.175, 'compound': 0.8271}",0.8271,Positif,['monde']
+"ça continue à prendre du galon...et maintenant ""la transition énergétique dans les quartiers de racailles""",2023-04-04,4,4,2023,le miroir du Nord,,"{'neg': 0.0, 'neu': 0.818, 'pos': 0.182, 'compound': 0.4784}",0.4784,Positif,[]
+Cette fameuse transition énergétique n'est qu'un moyen technique pour que Davos arrive à ses fins. Covid 19 ou transition énergétique c'est le même scénario. Casser le pays et son peuple.,2023-04-04,4,4,2023,Mere Tapdur,,"{'neg': 0.0, 'neu': 0.842, 'pos': 0.158, 'compound': 0.7263}",0.7263,Positif,[]
+"TUL / Groupe RATP (Laon)
+
+🌿Après la réception de 4 HeuliezBus GX337 GNV entre 2019 et 2021, le réseau laonnois TUL continue sa transition énergétique avec l'arrivée de deux IvecoBus UW12GNV Cursor 9, dont le 78 en service sur la ligne 3. 🌿",2023-04-04,4,4,2023,Claude-Henry & ses périples,,"{'neg': 0.0, 'neu': 0.86, 'pos': 0.14, 'compound': 0.8156}",0.8156,Positif,[]
+"Il faut pas faire attention à eux,  Ils veulent des trucs énergétiques verts , on installe des éoliennes, ils disent que ça dérange les animaux , faut tout détruire 
+
+Il faut agir pour la transition énergétique sans faire attention à l'idéologie hystérique pseudo-écologiste",2023-04-04,4,4,2023,The Winter soldier,,"{'neg': 0.214, 'neu': 0.687, 'pos': 0.1, 'compound': -0.6868}",-0.6868,Negatif,"['éolien', 'vert']"
+"Je lance un nouveau programme au sein de la filière des MCS. En plus d’encourager l’innovation, il permettra d’accélérer la réalisation de la transformation de minéraux et contribuera au développement des filières nécessaires à la transition énergétique.➡️ bit.ly/3KawnIu",2023-04-04,4,4,2023,Maité Blanchette Vézina,,"{'neg': 0.031, 'neu': 0.93, 'pos': 0.039, 'compound': 0.1511}",0.1511,Positif,"['développement', 'nouveau', 'accélérer']"
+Montrer que l'Allemagne que certains ventent comme l'exemple à suivre pour la transition énergétique est en réalité plutôt un exemple de ce qu'il ne faut pas faire ?,2023-04-04,4,4,2023,Charlie Merland,,"{'neg': 0.0, 'neu': 0.863, 'pos': 0.137, 'compound': 0.5574}",0.5574,Positif,[]
+"Toute une journée pour aider les entrepreneuses et les #entrepreneurs à accélérer leur décarbonation. #JourE fut une magnifique boîte à outils et des solutions concrètes pour accélérer la transition énergétique et écologique des entreprises.
+@Bpifrance #BanqueduClimat #CoqVert",2023-04-04,4,4,2023,Stéphane Ndour,,"{'neg': 0.0, 'neu': 0.764, 'pos': 0.236, 'compound': 0.8481}",0.8481,Positif,"['france', 'entreprise', 'solution', 'écologique', 'accélérer']"
+"Mon point ? Total est une entreprise parfaitement respectable, qui fournit un bien de toute première nécessité, dont nous ne pouvons pas nous passer (pour l’instant) et sans lequel on serait dans une m**** noire. 
+Personne n’investit autant qu’eux dans la transition énergétique.",2023-04-04,4,4,2023,Watt The Duck est passé du côté obscur,,"{'neg': 0.0, 'neu': 0.826, 'pos': 0.174, 'compound': 0.7712}",0.7712,Positif,['entreprise']
+Totalenergie est une entreprise inutile dont la disparition ferait considérablement augmenter l'économie en vertu de la destruction créatrice Schumpeterienne et c'est un nain dans la transition énergétique (Total gonfle ses chiffres en y comptant le gaz fossile).,2023-04-04,4,4,2023,Redux,,"{'neg': 0.136, 'neu': 0.71, 'pos': 0.154, 'compound': -0.0276}",-0.0276,Neutre,"['entreprise', 'fossile', 'économie', 'vert']"
+"#Climat : les budgets d’Ottawa et de Québec s’attaquent peu à la racine du problème. ""Au lieu d’envoyer un message clair qui indiquerait... qu’une réelle & profonde transition énergétique est enclenchée, les responsables nourrissent un peu l’ambiguïté..."" ici.radio-canada.ca/nouvelle…",2023-04-04,4,4,2023,Patrick Bonin,,"{'neg': 0.041, 'neu': 0.765, 'pos': 0.194, 'compound': 0.7808}",0.7808,Positif,[]
+Transition énergétique mal pensée  : 120 milliards d’euros engagés n’ont pas réduit d’une seule tonne nos émissions de CO2 atlantico.fr/article/decrypt… via @atlantico_fr,2023-04-04,4,4,2023,MDOLIVIER,,"{'neg': 0.064, 'neu': 0.711, 'pos': 0.225, 'compound': 0.5991}",0.5991,Positif,[]
+Du coup vous mélangez les politiques libérales de l'énergie avec ma volonté d'avoir une réelle transition énergétique.,2023-04-04,4,4,2023,Candide,,"{'neg': 0.0, 'neu': 0.861, 'pos': 0.139, 'compound': 0.4404}",0.4404,Positif,"['énergie', 'politique']"
+"Ta transition énergétique qui consiste a tout bétonner pour mettre en place des foret d'éolienne et panneau solaire éco+ qui foutron le camps a la moindre tempête ?  
+
+Ses c'est politique libérale qui on conduit nos centrale a ce détériore.",2023-04-04,4,4,2023,Vox-Artifhistoire,,"{'neg': 0.059, 'neu': 0.881, 'pos': 0.059, 'compound': 0.0}",0.0,Neutre,"['éolien', 'politique', 'solaire']"
+"Alice, il faut garder la possibilité de vivre sur la planète !
+Le militants Extinction Rebellion ne font pas du terrorisme, ils exigent (comment peut-elle) que nous adoptions un modèle de transition énergétique… Surtout parce que nous ne pouvons pas utiliser ressources russes.",2023-04-04,4,4,2023,baiapersa,,"{'neg': 0.032, 'neu': 0.854, 'pos': 0.114, 'compound': 0.5935}",0.5935,Positif,['plan']
+"L’Afrique doit utiliser son potentiel en ressources minérales pour stimuler son industrialisation (président de la BAD)
+""Entre 20 et 90 % des réserves planétaires de 11 métaux nécessaires à la transition énergétique sont en Afrique.""
+agenceecofin.com/metaux/0304…",2023-04-04,4,4,2023,John Dounga,,"{'neg': 0.0, 'neu': 0.876, 'pos': 0.124, 'compound': 0.6884}",0.6884,Positif,['plan']
+"Bitcoin est déjà écolo. Il permet la transition énergétique puisqu'il offre aux énergies renouvelables la possibilité de consommer l'énergie qui serait perdue sur place en y apportant un revenus permettant de développer le réseau. Et pas besoin qu'il soit reconnu, il marche.",2023-04-04,4,4,2023,Thomassoud,,"{'neg': 0.045, 'neu': 0.784, 'pos': 0.171, 'compound': 0.6597}",0.6597,Positif,"['énergie', 'renouvelable', 'besoin']"
+La commercialisation de notre production de pétrole nous sert aujourd’hui à financer notre transition énergétique vers plus de renouvelables. Et c’est la mission de Jean. #ThatsMyJob : meet Jean 👇,2023-04-04,4,4,2023,TotalEnergies Marketing Cameroun,,"{'neg': 0.06, 'neu': 0.857, 'pos': 0.083, 'compound': 0.2023}",0.2023,Positif,"['pétrole', 'financer', 'renouvelable', 'production']"
+"La transition énergétique et l'électrification et on ne produira pas assez d'hydrogène, de bio-gaz et carburants alternatifs pour maintenir la mondialisation de masse. Donc beaucoup de sobriété et de productions locales et un retour plus vers l'économie et les modes de vie du ...",2023-04-05,5,4,2023,Desseaux Joël,,"{'neg': 0.0, 'neu': 0.937, 'pos': 0.063, 'compound': 0.4784}",0.4784,Positif,"['économie', 'production', 'mondial']"
+"Des décennies que j'entends ce discours. Yorarien. Quant à la guerre en Ukraine, elle a scellé à jamais les ambitions russes, rappelé à tous la supériorité de l'Occident, ressuscité et renforcé l'OTAN, conduit à son réarmement et accéléré la transition énergétique.",2023-04-05,5,4,2023,Celsus,,"{'neg': 0.075, 'neu': 0.769, 'pos': 0.156, 'compound': 0.5411}",0.5411,Positif,[]
+Ah oui et je précise que je ne suis pas riche. Je suis juste un indépendant qui investit le fruit de son travail dans la transition énergétique. Et si j’étais riche j’aurais une action encore plus forte pour accélérer la transition.,2023-04-05,5,4,2023,Kris ☀️⚡️🔋 🌎🌳♻️,,"{'neg': 0.058, 'neu': 0.72, 'pos': 0.222, 'compound': 0.8007}",0.8007,Positif,['accélérer']
+"Vous pouvez arrêter avec votre transition énergétique svp ? Pour le moment ce ne profite qu’aux spéculateurs : éoliennes, photovoltaïque, voitures électriques ….",2023-04-05,5,4,2023,Nanny Cool,,"{'neg': 0.148, 'neu': 0.669, 'pos': 0.183, 'compound': 0.25}",0.25,Positif,"['électrique', 'éolien']"
+"Macron et BlackRock face à une révolution en France ?
+
+MACRON est un larbin de blackrock : privation des retraites, « vaccins », « transition énergétique et écologique » du capitalisme, demain la dette comme en Grèce ?  reseauinternational.net/macr…",2023-04-05,5,4,2023,Zenonus Maximus,,"{'neg': 0.1, 'neu': 0.836, 'pos': 0.064, 'compound': -0.2387}",-0.2387,Negatif,"['écologique', 'retraite']"
+"Assurer l’autonomie politique de la majorité populaire dans les débats sur la transition énergétique Le premier ministre, François Legault, a annoncé un débat sur l’avenir énergétique du Québec. Déjà, le ministre de l’Économie, de l’Innovation et (...) pressegauche.org/Assurer-l-a…",2023-04-05,5,4,2023,Presse-toi à gauche,,"{'neg': 0.0, 'neu': 0.706, 'pos': 0.294, 'compound': 0.891}",0.891,Positif,"['ministre', 'politique']"
+"Comme pour les traitements covid et les vax, il devrait y avoir débat et non décréter un faux consensus. Pkoi les Youtube et consorts censurent ils les opinions dissidentes?
+Le côté entropique du réchauffement n’est pas clair et la transition énergétique est un énorme business...",2023-04-05,5,4,2023,Fabio 🇨🇵,,"{'neg': 0.074, 'neu': 0.818, 'pos': 0.108, 'compound': 0.4071}",0.4071,Positif,[]
+La Chine doit contrôler 95% des terres rares et achète l'Afrique. La transition énergétique sans la Chine sera quasiment impossible.⬇️,2023-04-05,5,4,2023,Herodote1789,,"{'neg': 0.0, 'neu': 0.873, 'pos': 0.127, 'compound': 0.4926}",0.4926,Positif,[]
+"Avant d'aller tenir des propos incendiaires à l'encontre de la Chine à Pékin, il faudrait peut-être ne pas oublier que sans la Chine, il n'y a plus de transition énergétique en Europe... finito !",2023-04-05,5,4,2023,Kâplan,,"{'neg': 0.073, 'neu': 0.884, 'pos': 0.042, 'compound': -0.3054}",-0.3054,Negatif,[]
+"C'est surtout pendant la visite de Macron et von der Leyen qui tiennent des propos incendiaires délirants à l'encontre de la Chine... le gouvernement chinois rappelle juste que sans eux, il n'y a plus de transition énergétique en Europe.",2023-04-05,5,4,2023,Kâplan,,"{'neg': 0.06, 'neu': 0.94, 'pos': 0.0, 'compound': -0.3851}",-0.3851,Negatif,['gouvernement']
+"L’opération doit encore obtenir l’aval des autorités compétentes pour pouvoir être finalisée, mais elle interroge sur la souveraineté industrielle sur la transition énergétique que vise théoriquement l’Union européenne. 
+lenergeek.com/2023/03/23/dis…",2023-04-05,5,4,2023,Eric Sartori,,"{'neg': 0.068, 'neu': 0.632, 'pos': 0.3, 'compound': 0.7783}",0.7783,Positif,[]
+"Qu’un spécialiste de la grande distribution souhaite revendre un actif énergétique, rien de bien étonnant.
+Mais qu’aucun groupe européen ne souhaite récupérer une entreprise active dans une des industries phares de la transition énergétique, l’éolien offshore, c’est plus étonnant",2023-04-05,5,4,2023,Eric Sartori,,"{'neg': 0.141, 'neu': 0.58, 'pos': 0.279, 'compound': 0.7276}",0.7276,Positif,"['entreprise', 'éolien']"
+« Les dix commandements de la transition énergétique » à vendre sur Amazon ! Pour vous servir…,2023-04-05,5,4,2023,Esthète,,"{'neg': 0.0, 'neu': 0.766, 'pos': 0.234, 'compound': 0.5562}",0.5562,Positif,[]
+"La ministre de la transition énergétique se masturbe dans les médias sur une baisse de la consommation qui n'a eu lieu qu'en raison du réchauffement climatique, tout en refusant de faire mieux que ""d'inviter les entreprises à faire mieux"".",2023-04-05,5,4,2023,Mc Malocrane - @Mouarf@masto.bike,,"{'neg': 0.085, 'neu': 0.704, 'pos': 0.211, 'compound': 0.6486}",0.6486,Positif,"['ministre', 'climat', 'entreprise', 'consommation']"
+"L’Etat devrait supprimer ses subventions à ttes les assoces
+
+D’abord on finance correctement éducation nationale, sécurité, justice, infrastructures, transition énergétique. Et s’il reste de l’argent on voit (il n’en restera pas)
+
+Les assos sont être financées par leurs membres",2023-04-05,5,4,2023,kiko77,,"{'neg': 0.0, 'neu': 0.83, 'pos': 0.17, 'compound': 0.7783}",0.7783,Positif,[]
+"Nucléaire : ""Nous travaillons sur la possibilité de mettre en place des mécanismes moins dépendants du débit des rivières"", affirme la ministre de la Transition énergétique
+#GrandFoutageDeGueule francetvinfo.fr/societe/nucl…",2023-04-05,5,4,2023,Titane 🇫🇷 N 🐿️🐭🐁🐗,,"{'neg': 0.0, 'neu': 0.819, 'pos': 0.181, 'compound': 0.5434}",0.5434,Positif,"['ministre', 'france']"
+"ECOLOGIE - Transition énergétique mal pensée : 120 milliards d’euros engagés n’ont pas réduit d’une seule tonne nos émissions de CO2 | Atlantico.fr
+atlantico.fr/article/decrypt…",2023-04-05,5,4,2023,Philippe Raphael,,"{'neg': 0.061, 'neu': 0.722, 'pos': 0.217, 'compound': 0.6358}",0.6358,Positif,[]
+"L’Etat devrait supprimer ses subventions à ttes les assoces
+
+D’abord on finance correctement éducation nationale, sécurité, justice, infrastructures, transition énergétique. Et s’il reste de l’argent on voit (il n’en restera pas)
+
+Les assos sont être financées par leurs membres",2023-04-05,5,4,2023,kiko77,,"{'neg': 0.0, 'neu': 0.83, 'pos': 0.17, 'compound': 0.7783}",0.7783,Positif,[]
+Une opportunité pour les pouvoirs publics et les acteurs économiques de dresser un bilan des mesures prises par le Maroc et échanger autour de la transition énergétique nationale,2023-04-06,6,4,2023,TAQA Morocco,,"{'neg': 0.0, 'neu': 0.733, 'pos': 0.267, 'compound': 0.8442}",0.8442,Positif,['public']
+"Et on oublie le principal, il n'y a pas assez d'uranium pour que le nucléaire répondent au besoin de la transition énergétique d'ici 2050 et comme on a pas l'exclusivité.
+lejournal.cnrs.fr/articles/n…",2023-04-06,6,4,2023,Desseaux Joël,,"{'neg': 0.05, 'neu': 0.873, 'pos': 0.077, 'compound': 0.3164}",0.3164,Positif,"['nucléaire', 'besoin']"
+Exemple les moulins ( sur rivière) se battent contre le gouvernement et la transition écologique alors qui pourraient constituer une manne incroyable pour la transition énergétique avec une production hydroélectrique gigantesque par le nombre.,2023-04-06,6,4,2023,Draduag,,"{'neg': 0.0, 'neu': 0.845, 'pos': 0.155, 'compound': 0.5719}",0.5719,Positif,"['électrique', 'production', 'écologique', 'gouvernement']"
+"Oui et ça donne quoi en bilan co2? Vous savez ce pourquoi se fait la transition énergétique en principe...
+La même graphique en fait.
+On regroupe par type pas seulement les ENR...",2023-04-06,6,4,2023,nonobzh,,"{'neg': 0.0, 'neu': 0.892, 'pos': 0.108, 'compound': 0.6164}",0.6164,Positif,['co2']
+"#placement dans la transition énergétique : pour l'instant la propulsion de véhicule par l'énergie solaire ne convainc pas en #bourse !
+L'exemple de la maison mère de @SonoMotors (SEV) 
+Après une introduction prometteuse à plus de 20 $ ; aujourd'hui elle ne vaut plus que 0,32 $ !",2023-04-06,6,4,2023,AGRICOLE GILLES,,"{'neg': 0.0, 'neu': 0.855, 'pos': 0.145, 'compound': 0.8541}",0.8541,Positif,"['énergie', 'solaire']"
+Merci Kévin pour ce thread pédagogique - On utilise les mêmes approches dans mon équipe pour modéliser l'industrie (secteur le plus cool de la transition énergétique 🥰),2023-04-06,6,4,2023,PaccoBa,,"{'neg': 0.038, 'neu': 0.746, 'pos': 0.216, 'compound': 0.7688}",0.7688,Positif,[]
+"Ecofin - Afrique du Sud : l’Espagne mobilise 2,3 milliards $ pour la transition énergétique et l’eau tinyurl.com/2xsslrdt",2023-04-06,6,4,2023,Afropages,,"{'neg': 0.0, 'neu': 0.854, 'pos': 0.146, 'compound': 0.4926}",0.4926,Positif,[]
+Rôle de la #RDC dans la transition énergétique à travers ses métaux critiques et leur transformation locale! Sincères félicitations 🙌,2023-04-06,6,4,2023,MUKENDI TSHIDIMU Arsène,,"{'neg': 0.099, 'neu': 0.53, 'pos': 0.371, 'compound': 0.7896}",0.7896,Positif,[]
+"Retour en images sur la #SemaineFrançaise à Kinshasa où nous avons parlé du secteur minier; son potentiel,sa législation,les défis du secteur pour sa croissance,le rôle de la RDC dans la transition énergétique à travers ses métaux critiques et leur transformation locale en RDC.",2023-04-06,6,4,2023,John Nsana Kanyoni,,"{'neg': 0.059, 'neu': 0.849, 'pos': 0.091, 'compound': 0.2695}",0.2695,Positif,[]
+Que l’enfant congolais ne paie pas le prix de la transition énergétique.,2023-04-06,6,4,2023,asbl Droit de l'Enfant Congolais,,"{'neg': 0.173, 'neu': 0.641, 'pos': 0.186, 'compound': 0.0511}",0.0511,Positif,['prix']
+"La question est simple : pourquoi la transition énergétique ? Pour diminuer nos émissions de GAES.
+Donc est ""bon ""ce qui les diminue
+Est ""mauvais"" ce qui les augmente. Il faut en rester à des questions simples. Sinon on se perd.",2023-04-06,6,4,2023,charles l'observateur,,"{'neg': 0.176, 'neu': 0.673, 'pos': 0.15, 'compound': -0.0772}",-0.0772,Negatif,[]
+Super ! Et pendant ce temps la le budget pour la transition énergétique et écologique ...??🙃🤡,2023-04-06,6,4,2023,Ké ? Nan...,,"{'neg': 0.0, 'neu': 0.774, 'pos': 0.226, 'compound': 0.6442}",0.6442,Positif,"['écologique', 'temps']"
+"""Transition énergétique avec la Chine""
+Tu as compris le niveau 🤔",2023-04-06,6,4,2023,HERBERT Thomas,,"{'neg': 0.0, 'neu': 0.818, 'pos': 0.182, 'compound': 0.4404}",0.4404,Positif,[]
+"Amazon.fr - Les dix commandements de la transition énergétique - Charlez, Philippe - Livres amazon.fr/dix-commandements-…",2023-04-06,6,4,2023,Yves Pozzo di Borgo,,"{'neg': 0.0, 'neu': 0.828, 'pos': 0.172, 'compound': 0.4404}",0.4404,Positif,[]
+"Afrique du Sud : l’Espagne mobilise 2,3 milliards $ pour la transition énergétique et l’eau -> agenceecofin.com/gestion-pub…",2023-04-06,6,4,2023,Agence Ecofin,,"{'neg': 0.0, 'neu': 0.847, 'pos': 0.153, 'compound': 0.5399}",0.5399,Positif,[]
+"Superbe édition 2023, un véritable plaisir de découvrir les solutions pour la transition énergétique issues d'innovateurs locaux. 
+Merci à SLB, Blue Invest, Ifremer et à tous les partenaires (dont EDF) ! lnkd.in/eQgU7hsT",2023-04-06,6,4,2023,Picasso Alain,,"{'neg': 0.0, 'neu': 0.648, 'pos': 0.352, 'compound': 0.9333}",0.9333,Positif,['solution']
+"Je ne suis pas affecté car j'ai fait ma ""transition énergétique"" vers le gaz: Naturel, Propane + Mazout.
+
+Avec l'inquiétant faiblissement en cours du champs magnétique terrestre (tsé la seule menace naturelle dont vous devriez vous soucier), les pannes vont juste être +nombreuses",2023-04-06,6,4,2023,"B. Castonguay, MBA",,"{'neg': 0.105, 'neu': 0.722, 'pos': 0.173, 'compound': 0.5638}",0.5638,Positif,[]
+aussi bien que la voiture électrique et le poile électrique lors de la panne.. merci gouv.qc pour la transition énergétique,2023-04-06,6,4,2023,Edik Ing,,"{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.7013}",0.7013,Positif,['électrique']
+"10-Annoncer que l'objectif national est d'atteindre un taux d'emploi le plus haut possible par un Plan de garantie d'emploi dans l'education, la santé , l'agriculture, recherche et developpement, IT, transition energetique et preservation des ressources.",2023-04-07,7,4,2023,Maha Ben Gadha,,"{'neg': 0.0, 'neu': 0.864, 'pos': 0.136, 'compound': 0.6476}",0.6476,Positif,"['santé', 'objectif']"
+Total doit bloquer les prix à 2€50 pour assurer la transition énergétique…,2023-04-07,7,4,2023,Dum Dum 🇫🇷🇵🇱🇪🇺🌎,,"{'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.6476}",0.6476,Positif,['prix']
+"Non ce qui est drôle c'est Victor avec ses sophismes tout pourris qui vient chanter les louanges de la transition énergétique allemande, en fournissant un graphique qui montre que depuis 2000, ils ont moins baissé que la France en %, et restent x2 en absolu
+
+🤡 de concours",2023-04-07,7,4,2023,bobby38_bcn,,"{'neg': 0.081, 'neu': 0.796, 'pos': 0.123, 'compound': 0.4547}",0.4547,Positif,['allemand']
+"Financements structurés, 2e édition, Ellipses:
+Dans cette nouvelle édition – qui intègre désormais l’impératif de la transition énergétique – l’auteur (Charles-Henri Larreur) lève le voile sur les mystères des financements structurés. À l’aide...
+>>> bit.ly/3mfnXYi",2023-04-07,7,4,2023,inv3stir,,"{'neg': 0.032, 'neu': 0.849, 'pos': 0.12, 'compound': 0.5122}",0.5122,Positif,[]
+"Fabuleux.
+La transition énergétique est en marche.",2023-04-07,7,4,2023,Jean CARLO,,"{'neg': 0.0, 'neu': 0.442, 'pos': 0.558, 'compound': 0.743}",0.743,Positif,[]
+"Et c'est les mêmes qui se prétendent être à la pointe de la transition énergétique. 😩🤬😭😬🙄
+Comme dirait un ancien Président : mais quelle indignité",2023-04-07,7,4,2023,Guillaume PORCHER,,"{'neg': 0.165, 'neu': 0.756, 'pos': 0.079, 'compound': -0.34}",-0.34,Negatif,[]
+"L'industrie auto 🇩🇪 et la transition énergétique. 
+Fin de la blague. 
+🤬🤬🤬😤😤😤😭😭😭",2023-04-07,7,4,2023,Guillaume PORCHER,,"{'neg': 0.177, 'neu': 0.719, 'pos': 0.104, 'compound': -0.5411}",-0.5411,Negatif,[]
+"Peut être que dans le cadre de la transition énergétique, l'Allemagne sortira de nouvelles voitures électriques avec un gazogène pour alimenter le générateur. 😁  Une passion des écolos le gaz et le charbon : piped.video/watch?v=fIMEs5…",2023-04-07,7,4,2023,Edward Wanderhard 🦙,,"{'neg': 0.026, 'neu': 0.794, 'pos': 0.18, 'compound': 0.802}",0.802,Positif,"['électrique', 'charbon']"
+"Sait-il faire quelque-chose d'autre...?! Ah, si, dans la transition énergétique, à faire du vent dans l'éolien.",2023-04-07,7,4,2023,Seizh Ruz Ha Du 6⃣⭐ 3️⃣🥇 3️⃣🏆 #emojibzh,,"{'neg': 0.0, 'neu': 0.833, 'pos': 0.167, 'compound': 0.5271}",0.5271,Positif,['éolien']
+Ah nos éco-anxieux!Déjà la CDPQ a perdu beaucoup de rendements en se retirant trop vite de l’énergie fossile.GNL aurait été une source incroyable $$$. Ça prend de l’argent pour la transition énergétique sinon on va couper ailleurs. La cible 2035 pour les véhicules est impossible,2023-04-07,7,4,2023,Claude Turgeon ⚡️⚡️,,"{'neg': 0.083, 'neu': 0.737, 'pos': 0.179, 'compound': 0.7156}",0.7156,Positif,"['énergie', 'fossile']"
+Mais c'est bien ça me rassure de voir que des journalistes sur la transition énergétique défendent les déplacements du gouvernement en jet comme si c'était leur daronne,2023-04-07,7,4,2023,Marianne,,"{'neg': 0.0, 'neu': 0.708, 'pos': 0.292, 'compound': 0.7845}",0.7845,Positif,['gouvernement']
+"La #transition énergétique sur les chapeaux de roues, la manette des gaz a fond pour que l'Allemagne garde sa pole position.",2023-04-07,7,4,2023,Neguchi Maroyama-@neguchi_Maroyama@piaille.fr,,"{'neg': 0.0, 'neu': 0.779, 'pos': 0.221, 'compound': 0.5267}",0.5267,Positif,[]
+"Comprendre les enjeux de la transition énergétique des transports, avec Aurélien Bigo play.acast.com/s/5fafe08bfa6… via @acast",2023-04-07,7,4,2023,Desseaux Joël,,"{'neg': 0.0, 'neu': 0.828, 'pos': 0.172, 'compound': 0.4404}",0.4404,Positif,[]
+"Et du coup, il a donné combien de notre argent aux chinois pour les aider dans leur transition énergétique , parce que ça, c’est son truc à notre arroseur !!",2023-04-07,7,4,2023,sergiovp,,"{'neg': 0.0, 'neu': 0.819, 'pos': 0.181, 'compound': 0.7339}",0.7339,Positif,[]
+"Tesla donnait les mêmes ordres de grandeur 📈 de l'autonomie (20%). Mais ils comptaient le faire avec un matériau moins cher visiblement.
+Cette décennie est fascinante et c'est un régal de voir le développement de tant d'avancées technologiques pour la transition énergétique 🤩",2023-04-07,7,4,2023,SraM 🔋,,"{'neg': 0.0, 'neu': 0.852, 'pos': 0.148, 'compound': 0.8401}",0.8401,Positif,['développement']
+De considérer que la courbe allait continuer pareil alors qu on demandait dans le même temps une transition énergétique considérable.,2023-04-07,7,4,2023,Machaon 3d,,"{'neg': 0.0, 'neu': 0.868, 'pos': 0.132, 'compound': 0.4404}",0.4404,Positif,['temps']
+"Passage étonnant sur la mise en place de la PPE et l'absence de ""vision long terme"" sur conso et prétendu absence de débat prospective...
+▶️quid du débat national transition énergétique qui a décortiqué pendant 8 mois  16 scénarios prospectifs en 2013 ? 
+webissimo.developpement-dura…",2023-04-07,7,4,2023,Andreas Rüdinger,,"{'neg': 0.0, 'neu': 0.778, 'pos': 0.222, 'compound': 0.8906}",0.8906,Positif,[]
+Transition énergétique mal pensée  : 120 milliards d’euros engagés n’ont pas réduit d’une seule tonne nos émissions de CO2 atlantico.fr/article/decrypt… via @atlantico_fr  sans compter l'immobilier qui va partir en quenouille......,2023-04-07,7,4,2023,CélesteBrume,,"{'neg': 0.077, 'neu': 0.742, 'pos': 0.182, 'compound': 0.6745}",0.6745,Positif,[]
+Bel article sur la transition énergétique de Mr Xavier Montuelle Directeur Territorial Alpes Maritimes. varmatin.com/economie/pour-l…,2023-04-07,7,4,2023,Arcamone,,"{'neg': 0.0, 'neu': 0.751, 'pos': 0.249, 'compound': 0.5106}",0.5106,Positif,[]
+"Pour assurer sa transition énergétique, le Japon va massivement investir dans l’hydrogène courrierinternational.com/ar…",2023-04-08,8,4,2023,nicolas760,,"{'neg': 0.0, 'neu': 0.705, 'pos': 0.295, 'compound': 0.5574}",0.5574,Positif,[]
+"Ce dimanche @leJDD, dans mon itw exclu avec @JohnKerry, l'ancien chef de la diplomatie confirme  l'engagement US d'obtenir 4500 Mds de dollars annuels à l'échelle mondiale pour financer la transition énergétique. ""Aucun autre président americain ne reviendra en arrière"".",2023-04-08,8,4,2023,FRANCOIS CLEMENCEAU,,"{'neg': 0.048, 'neu': 0.792, 'pos': 0.16, 'compound': 0.7418}",0.7418,Positif,"['financer', 'mondial']"
+Transition énergétique mal pensée  : 120 milliards d’euros engagés n’ont pas réduit d’une seule tonne nos émissions de CO2 atlantico.fr/article/decrypt… via @atlantico_fr,2023-04-08,8,4,2023,BBTigredusoleil,,"{'neg': 0.064, 'neu': 0.711, 'pos': 0.225, 'compound': 0.5991}",0.5991,Positif,[]
+"Réussir notre transition énergétique est impératif. Nous avons besoin que la #CNDP remplisse son rôle, sans le dévoyer, tout au long de cette transition. ...",2023-04-08,8,4,2023,Les Voix du Nucléaire,,"{'neg': 0.0, 'neu': 0.785, 'pos': 0.215, 'compound': 0.7651}",0.7651,Positif,['besoin']
+"Quand je pense à tous les idées à surveiller de la transition énergétique. J ai peur! 
+Coïncidence! J ai écrit il y a qq mois dans une consultation qu il fallait faire attention aux nuisances si les gens commencent à faire leur lessive la nuit cela va empêcher de dormir et créer des violences! #nuisances #transition #energetique #electricité",2023-04-08,8,4,2023,Laetitia Moreau-Gabarain MS MBA,,"{'neg': 0.022, 'neu': 0.803, 'pos': 0.175, 'compound': 0.8827}",0.8827,Positif,[]
+"au cas où vous ne sauriez pas, les gens en ont ras la coquillette de vos débilités énergétiques et votre transition énergétique à 2 balles
+stopracketenergie.fr/",2023-04-08,8,4,2023,androide,,"{'neg': 0.08, 'neu': 0.735, 'pos': 0.185, 'compound': 0.5106}",0.5106,Positif,[]
+Transition énergétique mal pensée : 120 milliards d’euros engagés n’ont pas réduit d’une seule tonne nos émissions de CO2 | Atlantico.fr atlantico.fr/article/decrypt…,2023-04-08,8,4,2023,Yves Pozzo di Borgo,,"{'neg': 0.066, 'neu': 0.7, 'pos': 0.234, 'compound': 0.5991}",0.5991,Positif,[]
+Transition énergétique mal pensée  : 120 milliards d’euros engagés n’ont pas réduit d’une seule tonne nos émissions de CO2 atlantico.fr/article/decrypt… via @atlantico_fr,2023-04-08,8,4,2023,Joana,,"{'neg': 0.064, 'neu': 0.711, 'pos': 0.225, 'compound': 0.5991}",0.5991,Positif,[]
+"#hecate2027
+madame pannier-runacher, ministre de la transition énergétique, incite, avant d'obliger, à rouler à 110kmh sur autoroute pour économiser du carburant.
+le prix des péages va-t-il également baisser ???",2023-04-08,8,4,2023,valmont edgar,,"{'neg': 0.146, 'neu': 0.638, 'pos': 0.216, 'compound': 0.5632}",0.5632,Positif,"['ministre', 'prix']"
+Transition énergétique mal pensée  : 120 milliards d’euros engagés n’ont pas réduit d’une seule tonne nos émissions de CO2 atlantico.fr/article/decrypt… via @atlantico_fr,2023-04-08,8,4,2023,MAKOWSKI David,,"{'neg': 0.064, 'neu': 0.711, 'pos': 0.225, 'compound': 0.5991}",0.5991,Positif,[]
+Transition énergétique mal pensée  : 120 milliards d’euros engagés n’ont pas réduit d’une seule tonne nos émissions de CO2 atlantico.fr/article/decrypt… via @atlantico_fr,2023-04-08,8,4,2023,Iriba,,"{'neg': 0.064, 'neu': 0.711, 'pos': 0.225, 'compound': 0.5991}",0.5991,Positif,[]
+TESLA a établi la voiture électrique. Nous établissons un logement abordable et une transition énergétique fonctionnelle avec une disruption dans les maisons. fr.gemini-next-generation.ho…,2023-04-08,8,4,2023,Mösl Roland,,"{'neg': 0.0, 'neu': 0.884, 'pos': 0.116, 'compound': 0.4926}",0.4926,Positif,['électrique']
+"🌿 Inscrivez-vous aux ateliers de la Fresque du Climat offerts par la Ville dans le cadre de son Plan Action pour le Climat et la Transition Énergétique !
+
+📅 Samedi 15 avril de 9h30 à 12h30
+📅 Jeudi 20 avril de 19h à 22h
+📍 Médiathèque de Garches
+
+✍️ bit.ly/FresqueClimat2023",2023-04-08,8,4,2023,Ville de Garches,,"{'neg': 0.0, 'neu': 0.944, 'pos': 0.056, 'compound': 0.6209}",0.6209,Positif,[]
+"Dans mon 1er livre « la transition énergétique, une énergie moins chère et un millions d’emplois créés » chez Fayard (2014) (Plan+protectionnisme),
+J’expliquai que solaire et éolien ne servent qu’à produire de l’électricité pour faire de l’hydrogène vu leur intermittence.
+✅Évidemment, la caste a conspué. 10 ans plus tard, l’Allemagne se lance à fond dans la production d’hydrogène à base d’ENR pour rendre beaucoup plus utile leurs éoliennes/panneaux solaires",2023-04-08,8,4,2023,Philippe Murer 🇫🇷,,"{'neg': 0.06, 'neu': 0.829, 'pos': 0.111, 'compound': 0.5912}",0.5912,Positif,"['énergie', 'éolien', 'production', 'solaire', 'électricité']"
+"Le Parc naturel régional du #Morvan souhaite poursuivre sa transition énergétique
+>>lyonne.fr/saint-brisson-5823…",2023-04-08,8,4,2023,L'Yonne Républicaine,,"{'neg': 0.153, 'neu': 0.452, 'pos': 0.395, 'compound': 0.5106}",0.5106,Positif,[]
+"Consistance 
+Série croissance..
+Transition  énergétique 
+Des .
+Stades  évolution  primitives..vers stades  évolution  plus product renta .fois..compétence..aires",2023-04-08,8,4,2023,hariche mourad,,"{'neg': 0.0, 'neu': 0.614, 'pos': 0.386, 'compound': 0.8988}",0.8988,Positif,[]
+"Et puis comme le dit Patrick Pouyanne, la transition énergétique beaucoup en parlent, nous on est en train de la faire.",2023-04-08,8,4,2023,🇺🇦Hacheur Charentais🇫🇷,,"{'neg': 0.0, 'neu': 0.873, 'pos': 0.127, 'compound': 0.4404}",0.4404,Positif,[]
+"Transition énergétique mal pensée : 120 milliards d’euros engagés n’ont pas réduit d’une seule tonne nos émissions de CO2
+
+Ou comment nous avons à grands frais remplacé de l’électricité décarbonée…par de l’électricité décarbonée
+atlantico.fr/article/decrypt…",2023-04-08,8,4,2023,Fabien Bouglé,,"{'neg': 0.042, 'neu': 0.75, 'pos': 0.208, 'compound': 0.7101}",0.7101,Positif,['électricité']
+"Diagnostics analytiques 
+1 points chauds 
+2 séries évolution..
+...distinctes..
+..s
+Bricolage transition énergétique..
+Ascendant...
+2 croissance..
+3 senecologie climat sol des aires 
+Conformité des. 
+Adaptation. 
+Forme déterminante 
+Positions décisions 
+Qualité..",2023-04-08,8,4,2023,hariche mourad,,"{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.9086}",0.9086,Positif,['climat']
+"Série succession. 
+Bricolage transition énergétique...
+D'une rotation  croissance en voie de développement de forme. 
+1 forme ascendante .progression 
+2 forme  décroiss
+3 pourra être..
+Passagère. Transition écologi  traduction. Non conformité. Non vigoureuse..
+Forme. Non adap",2023-04-08,8,4,2023,hariche mourad,,"{'neg': 0.0, 'neu': 0.659, 'pos': 0.341, 'compound': 0.9495}",0.9495,Positif,['développement']
+"C'est beaucoup plus grave que cela. Le RCA sert de justification à la transition énergétique dont le but est de réserver les ressources non renouvelables de la terre à une infime minorité de scientifiques. L'écologisme c'est le génocide de 99,9% de l'humanité !",2023-04-09,9,4,2023,Johannes Gens,,"{'neg': 0.0, 'neu': 0.898, 'pos': 0.102, 'compound': 0.6928}",0.6928,Positif,['renouvelable']
+"Oui tout à fait, même si je pense que cela serait plus intéressant de lever des fonds pour se lancer dans de la R&D en énergétique au vu des défis de la transition énergétique",2023-04-09,9,4,2023,Nabil l'héritier de Fès,,"{'neg': 0.058, 'neu': 0.794, 'pos': 0.148, 'compound': 0.5905}",0.5905,Positif,[]
+La transition énergétique est une catastrophe,2023-04-09,9,4,2023,Chantal Cornet,,"{'neg': 0.389, 'neu': 0.354, 'pos': 0.257, 'compound': -0.3612}",-0.3612,Negatif,[]
+"Je dénonce le faite qu'il n'y ai aucun effort de fait en France en faveur de la transition énergétique. Le nucléaire doit nous aider à passer au renouvelable, il ne doit pas être notre première source d'énergie.",2023-04-09,9,4,2023,Valentin 🏳️‍🌈,,"{'neg': 0.06, 'neu': 0.719, 'pos': 0.222, 'compound': 0.7845}",0.7845,Positif,"['énergie', 'nucléaire', 'renouvelable']"
+"Flatterstrom et Dunkelflaute ! Un partisan de la transition énergétique a-t-il le droit d'utiliser ces mots ? Il doit même le faire, critiquer violemment le tournant énergétique allemand pour promouvoir un tournant énergétique qui fonctionne. piped.video/g_9Qi6w16rE",2023-04-09,9,4,2023,Mösl Roland,,"{'neg': 0.109, 'neu': 0.605, 'pos': 0.286, 'compound': 0.8313}",0.8313,Positif,['allemand']
+"ENI est dans l’indice ESG, Italien depuis 2 ans.,Il n’y a aucune fatalité sur les pétrolières, elles sont en pôle sur la transition énergétique. tradingsat.com/eni-IT0003132…",2023-04-09,9,4,2023,🇺🇦Hacheur Charentais🇫🇷,,"{'neg': 0.144, 'neu': 0.673, 'pos': 0.183, 'compound': -0.3365}",-0.3365,Negatif,[]
+"Transition énergétique mal pensée  : 120 milliards d’euros engagés n’ont pas réduit d’une seule tonne nos émissions de CO2
+
+==> Ou comment nous avons à grands frais remplacé de l’électricité décarbonée… par de l’électricité décarbonée...
+
+atlantico.fr/article/decrypt… @atlantico_fr",2023-04-09,9,4,2023,Progressum,,"{'neg': 0.038, 'neu': 0.774, 'pos': 0.188, 'compound': 0.7512}",0.7512,Positif,['électricité']
+Oui elle serait probablement moins émettrice qu'aujourd'hui mais le nucléaire n'est heureusement pas l'alpha et l'oméga de la transition énergétique et l'Allemagne montre qu'on peut diminuer nucléaire et énergie carboné et tendre vers le neutralité carbone,2023-04-09,9,4,2023,Pierre Vak 💬,,"{'neg': 0.0, 'neu': 0.897, 'pos': 0.103, 'compound': 0.5719}",0.5719,Positif,"['énergie', 'nucléaire']"
+"Bro, aujourd'hui avec l'aide des RS , nous ne devons pas raté cette occasion de la transition énergétique, mobilisons-nous comme un seul homme pour le développement de Manono qui deviendras un grand centre de notre pays à l'instar de Kolwezi!",2023-04-09,9,4,2023,🇨🇩,,"{'neg': 0.032, 'neu': 0.834, 'pos': 0.134, 'compound': 0.6224}",0.6224,Positif,['développement']
+"Ben il me semble qu’il faudra des 100aines de milliards rien qu’en matière de défense et pour la transition énergétique, d’après les annonces récentes. Je n’ai pas lu comment tout ça est financé ?",2023-04-09,9,4,2023,Anna Di Mario 🇪🇺,,"{'neg': 0.0, 'neu': 0.882, 'pos': 0.118, 'compound': 0.5106}",0.5106,Positif,['matière']
+"Et oui faut changer d'argumentaires anti électrification/ enr. 
+
+La transition énergétique est faisable.",2023-04-09,9,4,2023,Valentin Przyluski,,"{'neg': 0.112, 'neu': 0.634, 'pos': 0.254, 'compound': 0.4404}",0.4404,Positif,[]
+"Peut être parce que la transition énergétique à une échelle de temps aussi courte est un mythe. Pour l’heure  les énergies ne se substituent pas, elle s’agglomèrent.",2023-04-09,9,4,2023,thierry calvat,,"{'neg': 0.0, 'neu': 0.844, 'pos': 0.156, 'compound': 0.5859}",0.5859,Positif,"['énergie', 'temps']"
+"Dans la série cela fait 20 ans que l’on vous le dit, voici les #EnR non pilotables et la dictature de la pensée de l’#ecologie et des #ecologistes.
+    
+Transition énergétique  : 120 milliards d’euros engagés n’ont pas réduit nos émissions de CO2 atlantico.fr/article/decrypt…",2023-04-09,9,4,2023,I’m your father. 🐍,,"{'neg': 0.0, 'neu': 0.918, 'pos': 0.082, 'compound': 0.6219}",0.6219,Positif,[]
+"Des nouvelles de la main bien visible de 🦣l'État🦣 :
+les 120 milliards de nos euros dépensés pour la transition énergétique administrée
+n’ont pas réduit d’une seule tonne nos émissions de CO2
+(et ça n'a aucune raison de changer)
+atlantico.fr/article/decrypt…",2023-04-09,9,4,2023,Arsène - #FJW - GIEC libre,,"{'neg': 0.026, 'neu': 0.846, 'pos': 0.128, 'compound': 0.6131}",0.6131,Positif,[]
+"#Basquiat x #Warhol géniaux précurseurs en tout, même sur la transition énergétique 👍 😉#GreenEnergy 
+Une exposition exceptionnelle à la Fondation Louis Vuitton",2023-04-09,9,4,2023,Florence Robine,,"{'neg': 0.0, 'neu': 0.779, 'pos': 0.221, 'compound': 0.7269}",0.7269,Positif,[]
+Transition énergétique mal pensée  : 120 milliards d’euros engagés n’ont pas réduit d’une seule tonne nos émissions de CO2 atlantico.fr/article/decrypt… via @atlantico_fr,2023-04-09,9,4,2023,David Gatel,,"{'neg': 0.064, 'neu': 0.711, 'pos': 0.225, 'compound': 0.5991}",0.5991,Positif,[]
+"2/ Chez nous en France, Bitcoin permettrait d’accélérer la transition énergétique car en stabilisant le grid électrique, celui-ci accélère l’implantation des énergies renouvelables. Cf ERCOT au Texas :",2023-04-09,9,4,2023,The Daily Degen,,"{'neg': 0.0, 'neu': 0.844, 'pos': 0.156, 'compound': 0.658}",0.658,Positif,"['énergie', 'électrique', 'renouvelable', 'plan', 'accélérer']"
+"💯
+L'hypocrisie est d'autant plus frustrante quand on connaît l'impact qu'aurait le retardement de la transition énergétique... 😡",2023-04-09,9,4,2023,SraM 🔋,,"{'neg': 0.0, 'neu': 0.8, 'pos': 0.2, 'compound': 0.6722}",0.6722,Positif,[]
+Je suis scandalisé! J’ai été arrêté par la gendarmerie alors que je chantais la #Marseillaise à 150km/h à bord de mon hybride rechargeable. Ce gouvernement est contre les citoyens engagés pour la transition énergétique.,2023-04-09,9,4,2023,Itwasnotme,,"{'neg': 0.041, 'neu': 0.838, 'pos': 0.121, 'compound': 0.4574}",0.4574,Positif,['gouvernement']
+Transition énergétique = ARNAQUE !,2023-04-10,10,4,2023,🇫🇷 Froidthier,,"{'neg': 0.445, 'neu': 0.282, 'pos': 0.273, 'compound': -0.4796}",-0.4796,Negatif,[]
+"Je vais pas trop bien ces temps-ci, je fume comme comme la transition énergétique allemande.",2023-04-10,10,4,2023,L’internaute de trop,,"{'neg': 0.218, 'neu': 0.629, 'pos': 0.152, 'compound': -0.0682}",-0.0682,Negatif,"['allemand', 'temps']"
+#TransitionEnergetique Les défis qui attendent le secteur automobile avec la transition énergétique ift.tt/ZAqEFtM,2023-04-10,10,4,2023,Smart City en France,,"{'neg': 0.0, 'neu': 0.805, 'pos': 0.195, 'compound': 0.4404}",0.4404,Positif,[]
+#TransitionEnergetique Les défis qui attendent le secteur automobile avec la transition énergétique - Laminute.info ift.tt/ScMWNq2,2023-04-10,10,4,2023,Smart City en France,,"{'neg': 0.0, 'neu': 0.828, 'pos': 0.172, 'compound': 0.4404}",0.4404,Positif,[]
+"Quand le monde raisonne a une transition énergétique voilà une ici vivante en 2023 mais un raisonnement de l'Antiquité, Un vrai kasaiën n'a pas peur, nous avons affronter Kabila et nous l'avons chassé, pourquoi n'est pas nous éliminer en c temps là? Toza Awa",2023-04-10,10,4,2023,evans kabuya,,"{'neg': 0.025, 'neu': 0.839, 'pos': 0.137, 'compound': 0.7321}",0.7321,Positif,"['temps', 'monde']"
+Ça favorise la transition énergétique.,2023-04-10,10,4,2023,Yield,,"{'neg': 0.0, 'neu': 0.58, 'pos': 0.42, 'compound': 0.4404}",0.4404,Positif,[]
+"Rassurez vous, dans une semaine, l'Allemagne aura avancé d'un grand pas dans la direction de sa transition énergétique.
+
+Alors que nous, au contraire, nous stagnons...",2023-04-10,10,4,2023,Vi_R,,"{'neg': 0.0, 'neu': 0.767, 'pos': 0.233, 'compound': 0.7657}",0.7657,Positif,[]
+Transition énergétique mal pensée  : 120 milliards d’euros engagés n’ont pas réduit d’une seule tonne nos émissions de CO2 atlantico.fr/article/decrypt… via @atlantico_fr,2023-04-10,10,4,2023,PatMarco,,"{'neg': 0.064, 'neu': 0.711, 'pos': 0.225, 'compound': 0.5991}",0.5991,Positif,[]
+"A partir du point 33, c'est les défis planétaires qui sont abordés, sécurité alimentaire, liberté commerciale, transition énergétique des économies émergentes, gestion des dettes, protection de la nature et lutte contre le réchauffement climatique.",2023-04-10,10,4,2023,Clément Molin,,"{'neg': 0.132, 'neu': 0.707, 'pos': 0.161, 'compound': 0.3595}",0.3595,Positif,"['climat', 'économie', 'plan']"
+"Télétravail et économies d'énergie : une étude présentée par le ministre de la Transition #énergétique à une soixantaine de grandes entreprises françaises
+En savoir plus : ow.ly/OOU7104CkwW",2023-04-10,10,4,2023,Annik Vandeputte,,"{'neg': 0.0, 'neu': 0.903, 'pos': 0.097, 'compound': 0.4404}",0.4404,Positif,"['ministre', 'énergie', 'entreprise', 'économie', 'français']"
+"Quand je dis que je suis contre l’IVG, je parle bien entendu de transition énergétique car je suis contre l’IVG Immobilien, une entreprise allemande propriétaire des stockages Etzel où est entreposée une partie des réserves stratégiques de pétrole de l’Allemagne.",2023-04-10,10,4,2023,Thomas Barnish,,"{'neg': 0.0, 'neu': 0.903, 'pos': 0.097, 'compound': 0.5696}",0.5696,Positif,"['pétrole', 'entreprise', 'allemand']"
+"Quand je dis que je suis contre l’IVG, je parle bien entendu de transition énergétique car je suis contre l’IVG Immobilien, une entreprise allemande propriétaire des stockages Etzel où est entreposée une partie des réserves stratégiques de pétrole de l’Allemagne.",2023-04-10,10,4,2023,Thomas Barnish,,"{'neg': 0.0, 'neu': 0.903, 'pos': 0.097, 'compound': 0.5696}",0.5696,Positif,"['pétrole', 'entreprise', 'allemand']"
+"Santé devrait être moteur roue stratégie de développement transfert déterminisme rapports générations en voie développer davantage leurs territoires. 
+1 définition. 
+Réflexions 
+Missions 
+Continuité des actions entreprises. 
+Durée transition énergétique. 3effets. 
+Efforts pour t",2023-04-10,10,4,2023,hariche mourad,,"{'neg': 0.0, 'neu': 0.929, 'pos': 0.071, 'compound': 0.4926}",0.4926,Positif,"['entreprise', 'développement']"
+Je pense que la voiture thermique empire sérieusement la situation alors que la voiture électrique est une composante importante de la transition énergétique. Mais je ne crois certainement pas que le VE est une fin en soit qui va sauver le monde😉,2023-04-10,10,4,2023,Christophe TFf🇪🇺🇧🇪,,"{'neg': 0.083, 'neu': 0.739, 'pos': 0.178, 'compound': 0.68}",0.68,Positif,"['électrique', 'monde']"
+En plus d’offrir une alternative plus propre elle est une sorte de cheval de Troie qui pénètre les consciences et les ouvrent aux autres moyens efficaces et nécessaires à la transition énergétique.,2023-04-10,10,4,2023,Christophe TFf🇪🇺🇧🇪,,"{'neg': 0.061, 'neu': 0.778, 'pos': 0.161, 'compound': 0.5778}",0.5778,Positif,[]
+Et elle permet de mieux comprendre les concepts de rendement énergétique pour les appliquer à d’autres domaines tout aussi utiles à la transition énergétique.,2023-04-10,10,4,2023,Christophe TFf🇪🇺🇧🇪,,"{'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.8402}",0.8402,Positif,[]
+Je me demande comment vous aller accompagner la transition énergétique ces 15 prochaines années...,2023-04-10,10,4,2023,truc muche,,"{'neg': 0.0, 'neu': 0.807, 'pos': 0.193, 'compound': 0.5271}",0.5271,Positif,[]
+"La France vit au-dessus de ces moyens : défit budgétaire 165Md€, déficit commercial 165Md€, dette 3000Md€. Besoins d’investissement immenses : transition énergétique, santé, éducation, justice, défense.
+Il faudra augmenter les impôts et que le régime des retraites s’équilibre.",2023-04-10,10,4,2023,Marc Ghinsberg,,"{'neg': 0.089, 'neu': 0.694, 'pos': 0.217, 'compound': 0.7096}",0.7096,Positif,"['santé', 'retraite']"
+Pas avec mes sous (je vais changer de fournisseur du coup) investissez dans le programme ITER c'est l'avenir. La transition énergétique est une vaste fumisterie qui profite à une poignée de lobbies  et coûte très cher à la population.Ecoutez Loïc L Prigent...,2023-04-10,10,4,2023,sophie,,"{'neg': 0.074, 'neu': 0.808, 'pos': 0.118, 'compound': 0.5495}",0.5495,Positif,[]
+Et moi je crois dans une transition énergétique inspirée des sciences et des technologies qui ne frustre pas les gens comme le ferait une décroissance brutale et imposée. Si on offre des alternatives qui diminuent notre impact sans (trop) frustrer on accélérera l’engouement,2023-04-10,10,4,2023,Christophe TFf🇪🇺🇧🇪,,"{'neg': 0.152, 'neu': 0.685, 'pos': 0.163, 'compound': 0.1523}",0.1523,Positif,['accélérer']
+"7
+On peut s'interroger sur la DIFFÉRENCE entre L'IMPORTANCE de son POUVOIR sur les questions sociétales (transition énergétique, LGBTI+, etc) et la MÉCONNAISSANCE du grand public de son influence réelle voire même de son existence.
+Une OMERTA qui en rappelle une autre (FM).
+⤵️",2023-04-11,11,4,2023,Pas ENDOCTRINÉ - J. Mouldeux ✊,,"{'neg': 0.0, 'neu': 0.807, 'pos': 0.193, 'compound': 0.8516}",0.8516,Positif,['public']
+"C'est un comble!
+Comment la transition énergétique entraîne l'effondrement de nos industries...",2023-04-11,11,4,2023,Isa C,,"{'neg': 0.0, 'neu': 0.793, 'pos': 0.207, 'compound': 0.5271}",0.5271,Positif,[]
+"Cette friche qui était tout sauf une friche mais une infrastructure essentielle pour la transition énergétique, pour le futur.",2023-04-11,11,4,2023,Jaffarrr avec deux F et trois R,,"{'neg': 0.0, 'neu': 0.861, 'pos': 0.139, 'compound': 0.4404}",0.4404,Positif,[]
+"Les pays possédant les matières premières mettent en place toujours plus de régulations / restrictions à l'exportation. Pour les matières les plus critiques et essentielles à la transition énergétique, elles sont passées de 2.500 en 2009 à 13.000 en 2020.
+oecd-ilibrary.org/docserver/…",2023-04-11,11,4,2023,Aymeric Pontier,,"{'neg': 0.0, 'neu': 0.884, 'pos': 0.116, 'compound': 0.7276}",0.7276,Positif,['matière']
+Transition énergétique : Il faut « traiter l’indemnisation des préjudices » – via @lemondefr lemonde.fr/economie/article/…,2023-04-11,11,4,2023,zer sinan,,"{'neg': 0.137, 'neu': 0.588, 'pos': 0.275, 'compound': 0.4215}",0.4215,Positif,['monde']
+"Les municipalités jouent un rôle déterminant dans la transition énergétique. Soutenez la campagne Le Gaz, Naturellement Risqué en envoyant une lettre pré-écrite à votre municipalité pour adopter une loi pour sortir le gaz ""naturel"" des bâtiments du Québec!
+sortonslegaz.com/greenpeace-…",2023-04-11,11,4,2023,Mathieu Drouin,,"{'neg': 0.032, 'neu': 0.687, 'pos': 0.281, 'compound': 0.8622}",0.8622,Positif,[]
+"Nucléaire: dans l'Essonne, le gouvernement défend un ""plan Marshall des compétences"": La ministre de la Transition énergétique Agnès Pannier-Runacher a défendu mardi la mise en place d'un ""plan Marshall des compétences"" qui doit créer ""10.000 nouveaux… dlvr.it/SmKyqw",2023-04-11,11,4,2023,Metropolitic Nantes 🔁 Robot de retweet,,"{'neg': 0.0, 'neu': 0.843, 'pos': 0.157, 'compound': 0.7177}",0.7177,Positif,"['ministre', 'nouveau', 'plan', 'gouvernement']"
+Quand l'@OFA_TE cette ingérence Allemande au sein du ministère de la transition Energétique va-t-elle être dissoute ? fr.friends-against-wind.org/…,2023-04-11,11,4,2023,Rosemonde Pommier,,"{'neg': 0.0, 'neu': 0.861, 'pos': 0.139, 'compound': 0.4926}",0.4926,Positif,[]
+"N'oubliez pas de vous inscrire à notre colloque --> Modéliser la complexité de la transition énergétique vers la carboneutralité : un défi pluridisciplinaire. 11 et 12 mai 2023
+Acfas
+lnkd.in/eeZUuzHM",2023-04-11,11,4,2023,Energy Modelling Hub,,"{'neg': 0.0, 'neu': 0.873, 'pos': 0.127, 'compound': 0.6219}",0.6219,Positif,[]
+_xDFE2__xD83D_ Remerciements à l'équipe de l’IFMEREE pour la visite de son centre de formation aux métiers des énergies renouvelables de Tanger. Une formation d'excellence pour les jeunes tournée vers la transition énergétique. Un beau partenariat accompagné par l'@AFD_France,2023-04-11,11,4,2023,La France au Maroc 🇫🇷🇪🇺,,"{'neg': 0.0, 'neu': 0.777, 'pos': 0.223, 'compound': 0.8718}",0.8718,Positif,"['énergie', 'renouvelable']"
+"La croissance de l'Afrique reste faible, la région pourrait mieux valoriser ses ressources naturelles en période de forte demande liée à la transition énergétique horizon-news.net/index.php/a…",2023-04-11,11,4,2023,Agence horizonnews,,"{'neg': 0.085, 'neu': 0.614, 'pos': 0.301, 'compound': 0.7506}",0.7506,Positif,[]
+"#Angola #Uranium
+
+La Namibie est le premier producteur africain d'uranium. Alors que ce minerai rencontre un intérêt croissant en raison de la transition énergétique, l'Angola veut se lancer sur ce nouveau marché en tirant profit de l’expérience namibienne.
+
+Les deux pays ont tenu cette semaine plusieurs échanges portant sur la coopération dans l’exploitation des diamants en haute mer et de l’uranium, deux secteurs qui dominent le secteur minier namibien, a indiqué l'agence Ecofin.",2023-04-11,11,4,2023,Afrique Mère,,"{'neg': 0.014, 'neu': 0.849, 'pos': 0.137, 'compound': 0.8555}",0.8555,Positif,['nouveau']
+"La collaboration intercommunale est une recette qui fonctionne et qui permet d'avancer dans la transition énergétique ! 💚💙 
+Merci à notre Conseiller communal, Gwenaël Richard, en charge de l'énergie à #Massongex, d'être parmi les instigateurs ☀☀ ☀☀ 
+#leCouragedAgir",2023-04-11,11,4,2023,Vert'libéraux Valais / Grünliberale Wallis,,"{'neg': 0.034, 'neu': 0.803, 'pos': 0.162, 'compound': 0.8061}",0.8061,Positif,['énergie']
+"Les dessous de la transition énergétique
+francetvinfo.fr/replay-magaz…",2023-04-11,11,4,2023,Cathy,,"{'neg': 0.0, 'neu': 0.674, 'pos': 0.326, 'compound': 0.4404}",0.4404,Positif,['france']
+"Les dirigeants de l'UE sont tombés sous l'emprise des gourous de la secte climatique. Ils détruisent l'économie européenne.
+#transition énergétique #UE #TikTok vm.tiktok.com/ZMYGa691K/",2023-04-11,11,4,2023,DoudardDeLagree,,"{'neg': 0.166, 'neu': 0.703, 'pos': 0.131, 'compound': -0.3987}",-0.3987,Negatif,"['climat', 'économie']"
+"C’est certain que les travailleurs concernés doivent s’auto-organiser et prendre un rôle central dans l’élaboration et la mise en œuvre de la transition énergétique, en attendant je reste attaché au principe de respect de la diversité des tactiques 😉
+
+J’ai retrouvé le tweet :",2023-04-11,11,4,2023,Clément Renard,,"{'neg': 0.0, 'neu': 0.861, 'pos': 0.139, 'compound': 0.7506}",0.7506,Positif,[]
+➡️Cette journée marque également une étape importante dans le travail réalisé sur le devoir de mémoire du Débarquement de juin 1944. Un travail majeur qui permet de lier l’histoire de ce territoire à ce projet emblématique de la transition énergétique,2023-04-11,11,4,2023,Bruno Bensasson,,"{'neg': 0.0, 'neu': 0.867, 'pos': 0.133, 'compound': 0.6114}",0.6114,Positif,['projet']
+"La transition énergétique s'appuie aujourd'hui sur des industries aux externalités négatives importantes, ce qui représente un défi pour les investisseurs responsables. Cet article examine l'engagement comme alternative à l'exclusion : riacanada.ca/fr/magazine/un-… #ESG",2023-04-11,11,4,2023,RIA,,"{'neg': 0.129, 'neu': 0.59, 'pos': 0.282, 'compound': 0.5093}",0.5093,Positif,[]
+"De la transition énergétique, les USA adopte l'IRA (Inflation Réduction Act) consistant en paquets de subventions.L'UE adopte des aides (subsides) pour réduire les émissions de CO2.Que des milliards!Bref,il s'agit des batteries élect. La Rdc,pays producteur,peut-elle en profiter?",2023-04-11,11,4,2023,Mabiti Angali,,"{'neg': 0.1, 'neu': 0.675, 'pos': 0.225, 'compound': 0.6884}",0.6884,Positif,[]
+Un rendez-vous à ne pas manquer sur la #transition énergétique @CemExperts @IndustrieFrance @FondsE5T @I4CE_,2023-04-12,12,4,2023,Sylvianne Villaudiere,,"{'neg': 0.076, 'neu': 0.641, 'pos': 0.283, 'compound': 0.5938}",0.5938,Positif,[]
+"#Benin: Voici des #choses à #savoir sur l'#Energie #solaire et la transition énergétique pour le #developpement #rural
+#wasexo #Societe
+@jeune_afrique @gouvbenin
+@PatriceTalonPR @ortb_info
+@PresidenceBenin @BWasexo
+@BeninRetweets @BeninDiplomatie
+libre-express.com/454/atelie…",2023-04-12,12,4,2023,Libre Express,,"{'neg': 0.0, 'neu': 0.798, 'pos': 0.202, 'compound': 0.6808}",0.6808,Positif,['solaire']
+"@boris_ravignon retoqué à l'@ademe : une bonne nouvelle pour la transition énergétique et l'environnement en France. L'argument du cumul des mandats aurait été décisif, mais pas celui de l'(in)existence des compétences dans le domaine du candidat.",2023-04-12,12,4,2023,Arnaud Delebarre,,"{'neg': 0.027, 'neu': 0.807, 'pos': 0.166, 'compound': 0.7351}",0.7351,Positif,[]
+Je ne savais pas que l'actuel ministère de la transition énergétique était antinucléaire.,2023-04-12,12,4,2023,Romain Francois,,"{'neg': 0.0, 'neu': 0.818, 'pos': 0.182, 'compound': 0.4404}",0.4404,Positif,['nucléaire']
+"Le remplacement est déjà sur la table avec les programmes et projets de transition énergétique. L'hydrogène est l'hypothèse la plus probable avec l'électrification à marche forcée. Pour le reste, les défis sont déjà eux aussi anticipés pour les plus lucides.",2023-04-12,12,4,2023,Petite fleur de Sibérie,,"{'neg': 0.039, 'neu': 0.868, 'pos': 0.093, 'compound': 0.3612}",0.3612,Positif,['projet']
+Transition énergétique: place au douloureux principe de réalité lopinion.fr/economie/transit…,2023-04-12,12,4,2023,l'Opinion,,"{'neg': 0.161, 'neu': 0.593, 'pos': 0.246, 'compound': 0.25}",0.25,Positif,[]
+... instantané mais assez rapide pour qu'on ait des problèmes à suivre dans la transition énergétique sans subir des pénuries et de toutes façons incapable de maintenir la mondialisation suffisante pour tout faire.,2023-04-12,12,4,2023,Desseaux Joël,,"{'neg': 0.09, 'neu': 0.795, 'pos': 0.115, 'compound': 0.234}",0.234,Positif,['mondial']
+"On va forcer les ménages à dépenser un argent qu’ils n’ont pas pour de nouveaux  équipements poussés par quelques groupes européens, sur fond de subventions publiques… Vive la transition énergétique !",2023-04-12,12,4,2023,Laurence A.Gougeon,,"{'neg': 0.0, 'neu': 0.768, 'pos': 0.232, 'compound': 0.6298}",0.6298,Positif,['nouveau']
+"C'est ça, leur problème c'est certainement le climat. 
+L'aide alimentaire mondiale c'est  8 milliards/an pour le monde entier
+La transition énergétique c'est 60 milliards en 2023 juste pour la France.",2023-04-12,12,4,2023,marco nius,,"{'neg': 0.043, 'neu': 0.788, 'pos': 0.169, 'compound': 0.7081}",0.7081,Positif,"['climat', 'mondial', 'monde']"
+"Avec une approche axée sur le client pour accroître l’utilisation des véhicules électriques, le Canada sera bien placé pour être un leader de la transition énergétique. Lisez un article de Sara Ganowski dans
+@ElectricAutonmy: go.ey.com/3mrPWEe
+#EYCanada",2023-04-12,12,4,2023,EY Canada,,"{'neg': 0.0, 'neu': 0.857, 'pos': 0.143, 'compound': 0.5423}",0.5423,Positif,['électrique']
+"Blablabla, ce gloubiboulga sur la transition énergétique ne passe plus.  La France est déjà dans ls pays vertueux pour le co2, & les français sont saturés par les restrictions, les pénuries & les prix astronomiques de l'alimentation & de l'énergie. 
+Alors occupez vous ds français",2023-04-12,12,4,2023,Satelmarc,,"{'neg': 0.023, 'neu': 0.782, 'pos': 0.195, 'compound': 0.8658}",0.8658,Positif,"['énergie', 'vert', 'français', 'prix', 'co2']"
+"« Accentuer les efforts de sobriété ». La ministre de la Transition énergétique Agnès Pannier-Runacher demande aux entreprises de donner l’exemple « pour entraîner ensuite les Français », en baissant notamment leur consommation de carburant midilibre.fr/2023/04/12/notr…",2023-04-12,12,4,2023,Manuel Cudel,,"{'neg': 0.0, 'neu': 0.923, 'pos': 0.077, 'compound': 0.4404}",0.4404,Positif,"['ministre', 'entreprise', 'consommation']"
+"📢 LA TRANSITION ENERGETIQUE : 5/05 - 10H/11H 
+✅ Enjeux climatiques, énergétiques et environnementaux
+✅ Mobilité verte 
+✅ Efficacité énergétique
+✅ Production d'énergie
+✅ Financement et investissements ""Green""
+⏩lnkd.in/eFbVdu8v
+#transitionenergétique #mobiliteverte",2023-04-12,12,4,2023,URIOPSS BFC,,"{'neg': 0.212, 'neu': 0.576, 'pos': 0.211, 'compound': -0.3668}",-0.3668,Negatif,"['énergie', 'climat', 'vert']"
+"Complètement d'accord avec toi. Les liens et arguments sont faiblement rapportés à la science, et la causalité/correlation des éléments décrits est douteuse. Tes points sur la technologie, l'inéquité entres les pays et la transition énergétique, etc. sont très justes aussi.",2023-04-12,12,4,2023,Audrey-Fred Lavoie (she/her),,"{'neg': 0.096, 'neu': 0.771, 'pos': 0.133, 'compound': 0.197}",0.197,Positif,[]
+"""Notre ambition est d’augmenter la production d’électricité d’origine nucléaire"". Entretien avec la ministre de la Transition énergétique, Agnès Pannier-Runacher ⁦@Ecologie_Gouv⁩ @AgnesRunacher⁩  midilibre.fr/2023/04/12/notr…",2023-04-12,12,4,2023,Manuel Cudel,,"{'neg': 0.0, 'neu': 0.884, 'pos': 0.116, 'compound': 0.4404}",0.4404,Positif,"['ministre', 'nucléaire', 'production', 'électricité']"
+"On nous place la « transition énergétique » comme une fatalité sans se demander si on en a vraiment besoin, puisque notre énergie est déjà verte et renouvelable. 🤷‍♂️🤷‍♂️🤷‍♂️
+
+lesaffaires.com/strategie-d-…",2023-04-12,12,4,2023,Jean-Luc Proulx - Avec les agriculteurs hollandais,,"{'neg': 0.101, 'neu': 0.833, 'pos': 0.065, 'compound': -0.3818}",-0.3818,Negatif,"['énergie', 'renouvelable', 'besoin', 'vert']"
+"On doit faire appel à l’hydrogène pour répondre aux besoins énergétiques du pays et de la planète dans un contexte de sécurité énergétique, de transition énergétique et de grands impératifs climatiques.
+ 
+Pour en savoir plus : ow.ly/GiXt30suSna",2023-04-12,12,4,2023,Ressources naturelles,,"{'neg': 0.0, 'neu': 0.774, 'pos': 0.226, 'compound': 0.8481}",0.8481,Positif,"['climat', 'plan', 'besoin']"
+Transition énergétique: place au douloureux principe de réalité lopinion.fr/economie/transit…,2023-04-12,12,4,2023,l'Opinion Économie,,"{'neg': 0.161, 'neu': 0.593, 'pos': 0.246, 'compound': 0.25}",0.25,Positif,[]
+"Je vois très bien ce que tu veux dire.
+
+Mais je ne pense pas que ce soit les mêmes personnes pour autant.
+
+Nucléaire, ENR, voiture électrique, transition énergétique, sobriété... la même hauteur de vue, pas les mêmes personnes.
+
+Après peu de commentaires par rapport aux ❤️",2023-04-12,12,4,2023,Rodolphe Meyer,,"{'neg': 0.0, 'neu': 0.911, 'pos': 0.089, 'compound': 0.6354}",0.6354,Positif,['électrique']
+[Transition énergétique] La future loi de programmation énergie-climat (LPEC) suspendue à la crise politique buff.ly/41nMh9w Extrait du briefing de @ContexteTransp,2023-04-12,12,4,2023,Contexte,,"{'neg': 0.266, 'neu': 0.627, 'pos': 0.107, 'compound': -0.68}",-0.68,Negatif,"['énergie', 'climat', 'politique']"
+"À Washington, discussion à point nommé avec Directrice Département Afrique @AtlanticCouncil @ramayade et son équipe :
+- Sécurité & #Sahel 
+- Accélérer la Transformation Digitale 
+- La Technologie comme moteur de Croissance
+- Changement Climatique & Transition Énergétique",2023-04-13,13,4,2023,Lassina Zerbo,,"{'neg': 0.0, 'neu': 0.841, 'pos': 0.159, 'compound': 0.783}",0.783,Positif,[]
+Transition énergétique: Le Maroc cité en exemple par la Banque mondiale aujourdhui.ma/economie/trans…,2023-04-13,13,4,2023,JosiMoha,,"{'neg': 0.0, 'neu': 0.791, 'pos': 0.209, 'compound': 0.4404}",0.4404,Positif,['mondial']
+Des nouvelles de la transition énergétique allemande.,2023-04-13,13,4,2023,Vae Vix,,"{'neg': 0.132, 'neu': 0.549, 'pos': 0.319, 'compound': 0.4019}",0.4019,Positif,['allemand']
+"Sur tous les sujets, le narratif officiel se fracasse contre le mur de la réalité et pourtant, les voix dissidentes sont quasi censurées : injections anti Covid, guerre en Ukraine, transition énergétique…",2023-04-13,13,4,2023,JJHN,,"{'neg': 0.23, 'neu': 0.667, 'pos': 0.104, 'compound': -0.7269}",-0.7269,Negatif,[]
+"Rencontre avec Ousmane Mamadou Kane, Ministre des Affaires Economiques et des secteurs productifs de la #Mauritanie 🇲🇷 et sa délégation.
+
+Nous avons échangé sur l'économie, la transition énergétique et les projets soutenus par la @BanqueMondiale pour un développement inclusif.",2023-04-13,13,4,2023,Ousmane Diagana,,"{'neg': 0.0, 'neu': 0.852, 'pos': 0.148, 'compound': 0.7088}",0.7088,Positif,"['projet', 'économie', 'développement']"
+"En attendant les variants .
+
+Wé wé.... ou la prochaine inondation.
+Le #Walgov pourra offrir des chaufferettes électriques aux sinistrés.
+Juste avant la pseudo crise de l'énergie.
+Transition énergétique agenda EU 2025.
+Vous nous prenez vraiment pour des cons hein.",2023-04-13,13,4,2023,Kyrillos 🌍🤝💀,,"{'neg': 0.201, 'neu': 0.694, 'pos': 0.105, 'compound': -0.7515}",-0.7515,Negatif,"['énergie', 'électrique']"
+"Le capital-investissement, acteur clé de la transition énergétique. @corporateknight @INSEAD buff.ly/41p7hN1",2023-04-13,13,4,2023,Conseiller.ca,,"{'neg': 0.0, 'neu': 0.775, 'pos': 0.225, 'compound': 0.4926}",0.4926,Positif,[]
+"Quel dogmatisme, les allemands sont un peuple souverain et nous donne une leçon en matière de transition énergétique tout en transitionnant hors de l'atome.
+
+Avec les 20 milliards de l'EPR d'une puissance de 1,6GW on aurait pu construire 10 parc éoliens offshore de 500 MW => 5GW",2023-04-13,13,4,2023,Pierre Vak 💬,,"{'neg': 0.0, 'neu': 0.945, 'pos': 0.055, 'compound': 0.6553}",0.6553,Positif,"['allemand', 'éolien', 'matière']"
+"""Les idées reçues sur la transition énergétique allemande sont légion en France. Pour les uns c´est un modèle à suivre, pour les autres c´est un véritable fiasco. Sur la base des informations référencées sur des sources officielles, les lecteurs pourront se former une opinion """,2023-04-13,13,4,2023,mathiou JA,,"{'neg': 0.06, 'neu': 0.696, 'pos': 0.244, 'compound': 0.7906}",0.7906,Positif,['allemand']
+"Le 01 Novembre 2022, un communiqué du Ministère de la Transition Energétique et du Développement Durable (MTEDD) annonçait : ""… le MTEDD et l'Office National de l'Electricité et de l'Eau Potable (ONEE) ont lancé une expérience originale d'incitation à
+
+ecoactu.ma/aucune-baisse-ven…",2023-04-13,13,4,2023,ecoactumaroc,,"{'neg': 0.0, 'neu': 0.862, 'pos': 0.138, 'compound': 0.7998}",0.7998,Positif,[]
+"C’est ASP et le ministère de la transition énergétique qui est le portail dédié à ce chèque où il y a un simulateur 
+Allez sur le site chèque énergie où l’on fait la demande pour l’aide sur l’elec ou gaz et cliquez sur le lien vous arriverez sur le site",2023-04-13,13,4,2023,LE LI,,"{'neg': 0.0, 'neu': 0.796, 'pos': 0.204, 'compound': 0.8313}",0.8313,Positif,['énergie']
+"C’est + de 10 ans de travail collectif pour que nous soyons sécurisés en #énergie et ce n’est pas fini ! 
+
+Nous allons avoir de + en + recours à l’électricité dans notre quotidien. Toutes les sources d’électricité décarbonées sont nécessaires à la transition énergétique.",2023-04-13,13,4,2023,Loïg Chesnais-Girard,,"{'neg': 0.0, 'neu': 0.846, 'pos': 0.154, 'compound': 0.8065}",0.8065,Positif,"['énergie', 'électricité']"
+"Pardonnez moi, je perçois mal le lien entre votre appel à accélérer la transition énergétique (que je soutiens sans réserve) et le soutien - si je comprends bien car le propos n’est guère clair - à des manifestations violentes contre une retenue d’eau.
+
+A fortiori quand la pertinence de la retenue d’eau a été validée par des experts du domaine (qui n’est pas le vôtre)",2023-04-13,13,4,2023,Louis GODRON 🇺🇦,,"{'neg': 0.128, 'neu': 0.701, 'pos': 0.171, 'compound': 0.1045}",0.1045,Positif,['accélérer']
+"Oui j’ai douté au début c’est pour ça que je suis allé sur un PC et vous arrivez sur le site de la transition énergétique 
+Vous pouvez y accéder par le site chèque énergie où l’on fait la simulation",2023-04-13,13,4,2023,LE LI,,"{'neg': 0.048, 'neu': 0.822, 'pos': 0.13, 'compound': 0.4389}",0.4389,Positif,['énergie']
+"Comment le parti @lesRepublicains veut torpiller la sécurité d'approvisionnement en électricité et la transition énergétique ? Simple, il dépose une PPL visant à limiter le développement de l'éolien. assemblee-nationale.fr/dyn/1… On attend le texte exigeant le retour de l'UNGG.",2023-04-13,13,4,2023,Valéry Laramée de Tannenberg,,"{'neg': 0.081, 'neu': 0.793, 'pos': 0.126, 'compound': 0.3786}",0.3786,Positif,"['développement', 'éolien', 'électricité', 'public']"
+"en attendant les 3GW de nucléaire manquant vont inévitablement pousser les centrales fossiles,  gaz et charbon,  à tourner davantage",2023-04-13,13,4,2023,Transition énergétique,,"{'neg': 0.099, 'neu': 0.901, 'pos': 0.0, 'compound': -0.3595}",-0.3595,Negatif,"['nucléaire', 'fossile', 'charbon']"
+"Pour assurer la transition énergétique, l’UE a décidé qu’à l’horizon 2035, le parc automobile serait 100 % électrique. C’est le #lithium qui devient une ressource naturelle très convoitée et un élément stratégique. Va-t-on assister au retour des mines ?
+toutsurgoogle.com/lithium-le…",2023-04-13,13,4,2023,Tout Sur Google,,"{'neg': 0.0, 'neu': 0.734, 'pos': 0.266, 'compound': 0.9114}",0.9114,Positif,['électrique']
+Transition énergétique : Bruxelles espère trouver un accord rapide avec les États-Unis sur les matériaux critiques sudouest.fr/environnement/cl…,2023-04-13,13,4,2023,Sud Ouest,,"{'neg': 0.119, 'neu': 0.511, 'pos': 0.37, 'compound': 0.5994}",0.5994,Positif,[]
+"Les Institutions de Bretton Woods doivent être réformées pour mieux répondre aux besoins des Etats Membres. Les engagements pris en faveur des financements pour le climat tardent à se matérialiser. 
+Nous comptons sur une transition énergétique  juste #Senegal",2023-04-13,13,4,2023,Oulimata Sarr,,"{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.8176}",0.8176,Positif,"['climat', 'besoin']"
+Le tweet initial qui parle de faire la transition énergétique en  détruisant un village pour mettre une centrale est sans rapport avec la remarque qu'on détruit aussi un village pour un barrage ???,2023-04-13,13,4,2023,saudh,,"{'neg': 0.152, 'neu': 0.778, 'pos': 0.07, 'compound': -0.5171}",-0.5171,Negatif,[]
+"Transition énergétique : L’Alberta est « bien placée », dit un ministre fédéral rc.ca/SmVyTX",2023-04-14,14,4,2023,ICI Alberta,,"{'neg': 0.0, 'neu': 0.745, 'pos': 0.255, 'compound': 0.4767}",0.4767,Positif,['ministre']
+lancées récemment que ce soit le chantier de la protection sociale ou la Charte de l’investissement De plus concernant la transition énergétique des lois qui étaient attendues depuis longtemps ont enfin été adoptées Il a également souligné l’importance d’assurer,2023-04-14,14,4,2023,인생은 계속됩니다,,"{'neg': 0.058, 'neu': 0.839, 'pos': 0.103, 'compound': 0.2263}",0.2263,Positif,['temps']
+"Lieg wahrscheinlich daran, dass das in den anderen Ländern “transition energetique”, “transizione energetica”, “energy transition” oder ähnlich heißt. Heißt aber nicht dass die Länder nichts machen.",2023-04-14,14,4,2023,Valentin Bernard,,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutre,[]
+La transition énergétique est un enjeu crucial pour l'avenir de notre  planète. Il est essentiel que nous nous engagions dès maintenant dans  des actions concrètes pour réduire notre dépendance aux énergies  fossiles et favoriser l'utilisation de sources d'énergie renouvelable.,2023-04-14,14,4,2023,Kiwilhu Mbafé Tossi,,"{'neg': 0.0, 'neu': 0.854, 'pos': 0.146, 'compound': 0.7351}",0.7351,Positif,"['énergie', 'fossile', 'renouvelable', 'plan']"
+"#ConseilMEL 
+👉Isabelle Mariage soutient la délibération et rappelle la nécessité d'un réseau de chaleur fort, solide et contribuant aux objectifs nationaux de la transition énergétique.
+@MEL_Lille 
+#ThreadAvenir",2023-04-14,14,4,2023,Métropole Avenir,,"{'neg': 0.029, 'neu': 0.777, 'pos': 0.193, 'compound': 0.7269}",0.7269,Positif,['objectif']
+"Je peux ajouter qu’il est vrai que produire des déchets radioactifs est une mauvaise chose, mais il ne faut pas faire le sophisme de la solution parfaite. Le nucléaire est un élément clé de notre transition énergétique. Enfin, personne ne peut dire où sera France dans 1000 ans.",2023-04-14,14,4,2023,Black_science,,"{'neg': 0.067, 'neu': 0.84, 'pos': 0.093, 'compound': 0.1759}",0.1759,Positif,"['nucléaire', 'solution']"
+"NegaWatt est utopique, il nécessite des baisses de conso drastiques aux conséquences dramatiques et inacceptables. Pour consommer moins de pétrole/gaz il faut davantage d'électricité, ce qu'oublie NegaWatt obnubilé par la sortie du nucléaire.",2023-04-14,14,4,2023,Transition énergétique,,"{'neg': 0.25, 'neu': 0.75, 'pos': 0.0, 'compound': -0.7906}",-0.7906,Negatif,"['pétrole', 'nucléaire', 'électricité']"
+Les émissions de CO2 de l'Allemagne restent beaucoup plus élevées que celles des pays qui utilisent le nucléaire.,2023-04-14,14,4,2023,Transition énergétique,,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutre,['nucléaire']
+"L'Allemagne ne consommerait plus de charbon si elle n'avait pas fermé de réacteurs. Sa consommation de charbon a augmenté en 2022. ""les centrales en Allemagne alimentées par ce combustible ont produit en 2022 presque 12% d'électricité en plus qu'en 2021"" connaissancedesenergies.org/…",2023-04-14,14,4,2023,Transition énergétique,,"{'neg': 0.0, 'neu': 0.954, 'pos': 0.046, 'compound': 0.5053}",0.5053,Positif,"['consommation', 'électricité', 'charbon']"
+"les déchets nucléaires font 0 morts par an. L'@Andra_France les gère très professionnellement. Les plus problématiques seront à 500m sous terre et ne gêneront personne, sauf si les antinucléaires empêchent le projet Cigeo.",2023-04-14,14,4,2023,Transition énergétique,,"{'neg': 0.062, 'neu': 0.84, 'pos': 0.098, 'compound': 0.0788}",0.0788,Positif,"['nucléaire', 'projet']"
+"La politique de transition énergétique de construction des éoliennes détruit les paysages, la faune, la flore et les terres agricoles pour une efficacité énergétique médiocre.
+Un remède pire que le mal… cela évoque injections Covid.",2023-04-14,14,4,2023,JJHN,,"{'neg': 0.12, 'neu': 0.69, 'pos': 0.191, 'compound': 0.4767}",0.4767,Positif,"['éolien', 'politique']"
+Le danger qu’il ne voit pas c’est que les collapsollogues font prendre de mauvaises décisions car on aura besoin d’argent donc de croissance pour financer la transition énergétique chez nous et surtout chez les autres.,2023-04-14,14,4,2023,HugoMe,,"{'neg': 0.161, 'neu': 0.713, 'pos': 0.126, 'compound': -0.3612}",-0.3612,Negatif,"['financer', 'besoin']"
+"Anti Enr et antivoitures électriques,  même combat, les complotistes s'imaginent avoir trouvé des vérités qui n'en sont pas, leurs arguments ne résistent pas à une analyse rigoureuse, et des chiffres justes, dommage, ils ralentissent la transition énergétique",2023-04-14,14,4,2023,Nicolas Roques,,"{'neg': 0.187, 'neu': 0.663, 'pos': 0.151, 'compound': -0.2023}",-0.2023,Negatif,['électrique']
+4. Bardella manie parfaitement la critique des politiques écologiques simplistes et destructrices d’EELV et de LFI qui consiste à dire faisons des voitures électriques et réduisons le nucléaire pour faire la transition énergétique. (11/x),2023-04-14,14,4,2023,daj,,"{'neg': 0.145, 'neu': 0.748, 'pos': 0.107, 'compound': -0.4738}",-0.4738,Negatif,"['nucléaire', 'électrique', 'politique', 'écologique']"
+"Ceux qui ont creusé un minimum le sujet savent que la transition énergétique est une vue de l’esprit sans aucun lien avec la réalité et que la voiture électrique ne résoudra en rien nos problèmes, mais au contraire les accentuent et contribueront à la désindustrialisation (12/x)",2023-04-14,14,4,2023,daj,,"{'neg': 0.0, 'neu': 0.91, 'pos': 0.09, 'compound': 0.5178}",0.5178,Positif,['électrique']
+"Le nouveau SLAC-Stanford Battery Center cible les obstacles à une transition énergétique durable
+slac.stanford.edu/news/2023-…",2023-04-14,14,4,2023,METOS CM,,"{'neg': 0.215, 'neu': 0.621, 'pos': 0.164, 'compound': 0.0258}",0.0258,Neutre,"['nouveau', 'durable']"
+"_xDD1D__xD83E_On y reviendra mais à @villedegrasse & ses 23 écoles primaires, la @BanqueDesTerr des territoires accompagne la #collter à la rénovation énergétique de son bâti scolaire : 👉économiser + éduquer à la transition énergétique & écologique ! 🌱 #RenodesTerr",2023-04-14,14,4,2023,Nicolas Turcat,,"{'neg': 0.0, 'neu': 0.868, 'pos': 0.132, 'compound': 0.7494}",0.7494,Positif,"['écologique', 'maire']"
+Tema la gueule de la transition énergétique 😏,2023-04-14,14,4,2023,@clauer,,"{'neg': 0.155, 'neu': 0.323, 'pos': 0.523, 'compound': 0.6908}",0.6908,Positif,[]
+"Flo, je pense que tu peux être particulièrement bénéfique à la transition énergétique. Tu brasses tellement de vent et personne ne t'écoute ou te soutiens, on pourrait te recycler en éolienne, je suis sûr qu'à toi tout seul tu arriverais à alimenter une ville de taille moyenne!",2023-04-14,14,4,2023,Flying Couscous 🧅,,"{'neg': 0.075, 'neu': 0.807, 'pos': 0.118, 'compound': 0.5093}",0.5093,Positif,['éolien']
+_xDCF7__xD83D_Pour plus d’informations sur la transition énergétique allemande : sortirdunucleaire.org/Transi…,2023-04-14,14,4,2023,GREUBE HUMAINE,,"{'neg': 0.106, 'neu': 0.656, 'pos': 0.238, 'compound': 0.3826}",0.3826,Positif,['allemand']
+Une transition énergétique réussie,2023-04-15,15,4,2023,🅰️𝐥𝐞𝐱𝐚𝐧𝐝𝐫𝐞 𝐉𝐞𝐚𝐧,,"{'neg': 0.0, 'neu': 0.26, 'pos': 0.74, 'compound': 0.6908}",0.6908,Positif,[]
+"Une journée historique après des années de lutte ! ✊🏼🥳
+
+👉 Sortie du #nucléaire 🚫☢️🛢🔚
+👉 Transition énergétique ambitieuse ☀️🌬🌊 🪵
+👉 Sobriété énergétique 📉💡🚿 ⚠️
+Vivement la même chose en 🇨🇭, on lâche rien ! #SortieDuNucléaire
+rts.ch/info/monde/13941799-j…",2023-04-15,15,4,2023,Ilias Panchard,,"{'neg': 0.142, 'neu': 0.705, 'pos': 0.152, 'compound': 0.5216}",0.5216,Positif,"['nucléaire', 'monde']"
+"""Transition énergétique ambitieuse""
+euractiv.fr/section/energie/…",2023-04-15,15,4,2023,Antonpxt,,"{'neg': 0.0, 'neu': 0.25, 'pos': 0.75, 'compound': 0.7184}",0.7184,Positif,[]
+Ils doivent faire semblant d'être un pays sensible à la question climatique tout en repoussant décennie après décennie la décarbonation de l'électricité - l'étape la plus facile de la transition énergétique.,2023-04-15,15,4,2023,Tristan Kamin,,"{'neg': 0.062, 'neu': 0.799, 'pos': 0.139, 'compound': 0.4577}",0.4577,Positif,"['climat', 'électricité']"
+"Non par contre la blague du modèle allemand de transition énergétique, c'était marrant en 2011, c'était agaçant en 2017, mais la ça devient juste fatiguant",2023-04-15,15,4,2023,Elizabeth Isar,,"{'neg': 0.114, 'neu': 0.641, 'pos': 0.245, 'compound': 0.7256}",0.7256,Positif,['allemand']
+"Les pressions sur l’eau, face ignorée de la transition énergétique theconversation.com/les-pres… via @FR_Conversation",2023-04-15,15,4,2023,Takeshi,,"{'neg': 0.257, 'neu': 0.503, 'pos': 0.24, 'compound': -0.0772}",-0.0772,Negatif,[]
+Transition énergétique : L'Allemagne tourne ce samedi la page du nucléaire - France Live ift.tt/6vGmg19 #airpollution #pollutionair #QAI #IAQ,2023-04-15,15,4,2023,Life 01,,"{'neg': 0.0, 'neu': 0.868, 'pos': 0.132, 'compound': 0.5399}",0.5399,Positif,['nucléaire']
+"Tes  éléments de langage sont prêts ? T’as révisé ? Tes copains ont pas trop potassé la fin de vie, le travail des seniors et la transition énergétique vu que ça va finir aux oubliettes. Mais je suis sûr que tu vas exceller sur l’urgence de garantir la valeur travail !",2023-04-15,15,4,2023,FredSaco !,,"{'neg': 0.0, 'neu': 0.746, 'pos': 0.254, 'compound': 0.9072}",0.9072,Positif,[]
+"[ 🇫🇷 FRANCE | 🇩🇪 ALLEMAGNE ]
+
+🔸 Alors que d’ici minuit les dernières centrales nucléaires allemandes seront déconnectées du réseau, en France le ministère de la Transition énergétique réagit :",2023-04-15,15,4,2023,Black 〽️amba,,"{'neg': 0.04, 'neu': 0.882, 'pos': 0.078, 'compound': 0.594}",0.594,Positif,"['nucléaire', 'allemand']"
+"Comme chacun sait, c’est la lentr décomposition des dinosaures qui a généré en 65m annees cette energie nucléaire fossile qu’il est impératif de stopper avant le gaz naturel clé de notre transition énergétique",2023-04-15,15,4,2023,Dr RunningCat 💉💉💉🇫🇷🇪🇺💛💙,,"{'neg': 0.125, 'neu': 0.738, 'pos': 0.137, 'compound': 0.128}",0.128,Positif,"['nucléaire', 'fossile']"
+"Superphenix en France,  2 réacteurs en service en Russie.",2023-04-15,15,4,2023,Transition énergétique,,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutre,[]
+"et alors? Le parc nucléaire a connu des problèmes inédits en 2022, ça ne veut pas dire que ce sera pareil les années suivantes.  Effectivement il faut prévoir leurs remplacements tout de suite.",2023-04-15,15,4,2023,Transition énergétique,,"{'neg': 0.046, 'neu': 0.954, 'pos': 0.0, 'compound': -0.2244}",-0.2244,Negatif,['nucléaire']
+"1- Industrie verte : transition énergétique et réindustrialisation de la Lorraine,
+2- Une nouvelle offre de Logement dans une agglomération dense, aussi pour les transfrontaliers,
+3- Le travail comme une valeur, un cadre, la condition de notre prospérité, contre la décroissance,",2023-04-15,15,4,2023,Emmanuel LACRESSE,,"{'neg': 0.028, 'neu': 0.872, 'pos': 0.101, 'compound': 0.5411}",0.5411,Positif,['vert']
+"""le G7 reconnait très largement l'importance du nucléaire comme une ""solution au service de la transition énergétique"" qui garantit la sécurité d'approvisionnement.""",2023-04-15,15,4,2023,ouinuc,,"{'neg': 0.0, 'neu': 0.679, 'pos': 0.321, 'compound': 0.8293}",0.8293,Positif,"['nucléaire', 'solution']"
+"Il a mieux à faire vous ne croyez pas ?
+Une réforme sur les hôpitaux et la santé ?
+Une réforme sur l’éducation et l’école ?
+Des actions contre l’inflation et la hausse des prix ?
+Une réforme sur la transition énergétique et la mise en place d’actions concrètes pour limiter le RC?",2023-04-15,15,4,2023,Florentin Cayrouse,,"{'neg': 0.0, 'neu': 0.775, 'pos': 0.225, 'compound': 0.899}",0.899,Positif,"['santé', 'prix']"
+"Pékin travaille depuis quelques temps sur un agenda international alternatif sur la transition énergétique, avec un timing et des conditionnalités « adaptés » aux pays émergents.",2023-04-15,15,4,2023,Olivier Andreu,,"{'neg': 0.0, 'neu': 0.801, 'pos': 0.199, 'compound': 0.5719}",0.5719,Positif,['temps']
+"C'est vexant, ça laisse des cicatrices comme un père absent
+J'suis spécial, donc j'arrive avant leurs messes basses
+
+🇺🇸Papa Biden🇺🇸 va remédier à ça :  Les États-Unis ""vont être le leader mondial"" de la transition énergétique avec des conseils d'Egypte.
+
+piped.video/watch?v=vxrc2VWm…",2023-04-15,15,4,2023,Cinzia Messina 🔞,,"{'neg': 0.129, 'neu': 0.771, 'pos': 0.1, 'compound': -0.1531}",-0.1531,Negatif,['mondial']
+La transition énergétique allemande.,2023-04-15,15,4,2023,TheMetroidPrime,,"{'neg': 0.0, 'neu': 0.508, 'pos': 0.492, 'compound': 0.4404}",0.4404,Positif,['allemand']
+Imagine vouloir mettre à l'arrêt le nucléaire dans une optique de transition énergétique ... 🤡,2023-04-15,15,4,2023,Chro,,"{'neg': 0.0, 'neu': 0.687, 'pos': 0.313, 'compound': 0.6007}",0.6007,Positif,['nucléaire']
+Nadia Fettah Alaoui nous avons remarqué la présence de la ministre de la Transition énergétique Leila Benali du ministre de l’Éducation nationale Chakib Benmoussa et de Mostafa Terrab DG de l’OCP entre autres Tous ont participé tout au long de la semaine à différents panels,2023-04-16,16,4,2023,인생은 계속됩니다,,"{'neg': 0.0, 'neu': 0.938, 'pos': 0.062, 'compound': 0.5399}",0.5399,Positif,['ministre']
+"2/3 ... Au passage, quand on dit ""leader"" c'est forcément au-delà des frontières.
+Il y a 1 politique radicale de transition énergétique au 🇲🇦, avec des résultats concrets, mondialement reconnus : les contrats évoqués dans le tweet s'inscrivent DANS cette continuité politique. 👇🏼",2023-04-16,16,4,2023,✌🏼ض🌿 طائر الهدهد 🕊️,,"{'neg': 0.039, 'neu': 0.87, 'pos': 0.091, 'compound': 0.5699}",0.5699,Positif,"['politique', 'mondial']"
+Non-sens car pour faire une transition énergétique vers ce genre de systèmes requiert trop de terre rares par rapport a ce qui est dispo,2023-04-16,16,4,2023,Nick-Nack,,"{'neg': 0.098, 'neu': 0.797, 'pos': 0.105, 'compound': 0.0516}",0.0516,Positif,[]
+"Marquant 10 ans de partenariat global 🇻🇳 🇺🇸, @SecBlinken et moi avons eu des discussions fructueuses sur l'approfondissement des relations bilatérales, en particulier. le commerce, l'investissement, la transition énergétique, les nouvelles industries,👇",2023-04-16,16,4,2023,christine Acelor,,"{'neg': 0.075, 'neu': 0.701, 'pos': 0.224, 'compound': 0.8164}",0.8164,Positif,[]
+"en particulier. le commerce, l'investissement, la transition énergétique, les nouvelles industries, l'éducation, les héritages de guerre, les liens entre les peuples et les questions internationales d'intérêt mutuel.",2023-04-16,16,4,2023,christine Acelor,,"{'neg': 0.136, 'neu': 0.665, 'pos': 0.199, 'compound': 0.34}",0.34,Positif,[]
+On devrait avoir pour référence la première transition énergétique francais avec le⚛️,2023-04-16,16,4,2023,Endymion,,"{'neg': 0.0, 'neu': 0.791, 'pos': 0.209, 'compound': 0.4404}",0.4404,Positif,[]
+"On a tous compris que:
+1⃣ Le réchauffement climatique c'est quand il fait chaud.
+2⃣ Le dérèglement climatique c'est quand il fait froid, il pleut, vente, grêle, ou neige.
+3⃣ La transition énergétique c'est quand on troque 4 Milliards de m3 d'eau douce contre des énergies fossiles",2023-04-16,16,4,2023,Adonis Evraïkós,,"{'neg': 0.043, 'neu': 0.817, 'pos': 0.139, 'compound': 0.6996}",0.6996,Positif,"['énergie', 'climat', 'fossile']"
+"Ou l'abus de manicheisme
+
+La transition énergétique n'est pas faite d'opposition entre tel ou tel lever mais de synthèse de TOUT les leviers
+
+Dixit le giec
+
+Et je m'arrêterais là",2023-04-16,16,4,2023,Arkhos94 #vaccin 4/4💉🇪🇺🌍🌻☢,,"{'neg': 0.0, 'neu': 0.925, 'pos': 0.075, 'compound': 0.4926}",0.4926,Positif,[]
+"Yep : le problème est dans les gens qui, par pure idéologie, nous tire une balle dans le pied face à une transition énergétique qui est déjà délirement difficile
+
+On a besoin de tout les leviers, pas juste de ceux correspondant à une philosophie politique hors d'âge et hors sol",2023-04-16,16,4,2023,Arkhos94 #vaccin 4/4💉🇪🇺🌍🌻☢,,"{'neg': 0.075, 'neu': 0.836, 'pos': 0.089, 'compound': 0.2023}",0.2023,Positif,"['politique', 'besoin']"
+"⚡️Petit point sur la #transition #énergétique en cours au niveau mondial grâce au dernier rapport de @EmberClimate
+ember-climate.org/insights/r…",2023-04-16,16,4,2023,Andréas,,"{'neg': 0.0, 'neu': 0.705, 'pos': 0.295, 'compound': 0.7269}",0.7269,Positif,"['climat', 'mondial']"
+"Cette façon de penser explique votre retard dans la transition énergétique (45% de l'énergie devra provenir des EnR en 2030). L'Allemagne a réussi, car obligée de se bouger et investir, quand la France rentière ne respecte pas la Directive 2009/28/CE.
+
+lemonde.fr/economie/article/…",2023-04-16,16,4,2023,Anne-Laure🇧🇪🌹📚🎨🎮🍸,,"{'neg': 0.044, 'neu': 0.751, 'pos': 0.204, 'compound': 0.8359}",0.8359,Positif,"['énergie', 'monde']"
+pour notre transition énergétique,2023-04-16,16,4,2023,Maxime Alexandre IV,,"{'neg': 0.0, 'neu': 0.508, 'pos': 0.492, 'compound': 0.4404}",0.4404,Positif,[]
+"Klaus Steigleder, professeur d'éthique appliquée à l'Université de Bochum (🇩🇪):
+
+«La transition énergétique ne réussira pas sans le nucléaire
+C’est la seule source d'énergie disponible qui présente les avantages des combustibles fossiles mais aucun de leurs inconvénients »",2023-04-16,16,4,2023,Bierun ⓩ,,"{'neg': 0.085, 'neu': 0.658, 'pos': 0.258, 'compound': 0.8481}",0.8481,Positif,"['énergie', 'nucléaire', 'fossile']"
+"Bah sauf que pour baisser les émissions des transport et de l'industrie il faut électrifier, ce qui sert a rien si l'électricité est carbonée. C'est assez clair que la décarbonation de l'élec est l'étape N°1 de la transition énergétique, et les Allemands foirent haut la main.",2023-04-16,16,4,2023,Karman-line,,"{'neg': 0.074, 'neu': 0.833, 'pos': 0.092, 'compound': 0.318}",0.318,Positif,['électricité']
+"une voiture électrique produit plus de 150gCO2/km sur son cycle de vie. C'est à peine mieux qu'une thermique.
+
+Donc un pays qui foire la transition énergétique de sa production électrique va nécessairement foirer sa transition tout court.",2023-04-16,16,4,2023,Mr 25.000 Volts,,"{'neg': 0.17, 'neu': 0.725, 'pos': 0.105, 'compound': -0.2707}",-0.2707,Negatif,"['électrique', 'production']"
+Leur but final est la sobriété et non la transition énergétique. Nous lutterons contre de toutes nos forces.,2023-04-16,16,4,2023,_T_,,"{'neg': 0.087, 'neu': 0.773, 'pos': 0.14, 'compound': 0.2732}",0.2732,Positif,[]
+"Sans compter les morts et les maladies des mineurs de charbon sur exploités car l'Allemagne importe aussi du charbon. La transition énergétique se fait sur le dos de populations sud-américaine, africaines ignorées.",2023-04-16,16,4,2023,Rezé_Stances,,"{'neg': 0.201, 'neu': 0.592, 'pos': 0.207, 'compound': -0.4094}",-0.4094,Negatif,['charbon']
+"Et pendant ce temps, les soi-disant écolos d'EELV prennent l'Allemagne comme modèle dans la transition énergétique et rêvent que la France suive le même chemin en sortant du nucléaire.",2023-04-16,16,4,2023,Olivier Devaud 📶5G🇪🇺🇺🇦,,"{'neg': 0.0, 'neu': 0.912, 'pos': 0.088, 'compound': 0.4926}",0.4926,Positif,"['nucléaire', 'temps']"
+"Sans oublier que pour réussir la transition énergétique, il ne suffit pas de maintenir notre production électrique actuelle, mais la multiplier, ce qui rend cette croyance encore plus curieuse.",2023-04-16,16,4,2023,Antonin Atger,,"{'neg': 0.056, 'neu': 0.72, 'pos': 0.224, 'compound': 0.7007}",0.7007,Positif,"['électrique', 'production']"
+"Dans le cadre de la transition énergétique, l’Allemagne décide d’augmenter de façon très importante les émissions de CO2",2023-04-16,16,4,2023,pauldeg,,"{'neg': 0.0, 'neu': 0.777, 'pos': 0.223, 'compound': 0.5974}",0.5974,Positif,[]
+"La région de Tanger-Tétouan Al-Hoceima se mobilise pour la transition énergétique et écologique de son territoire
+#Morocco",2023-04-17,17,4,2023,인생은 계속됩니다,,"{'neg': 0.0, 'neu': 0.847, 'pos': 0.153, 'compound': 0.4404}",0.4404,Positif,['écologique']
+"1- N'importe quel discours excluant une solution pour decarboner (ENR, nucléaire, sobriété...)
+2- N'importe quel discours, notamment en France, résumant la transition énergétique au seul secteur électrique 
+3- N'importe quel discours portant une techno comme une fin en soit",2023-04-17,17,4,2023,Prof_D_sciences,,"{'neg': 0.033, 'neu': 0.828, 'pos': 0.14, 'compound': 0.584}",0.584,Positif,"['nucléaire', 'électrique', 'solution']"
+"L’Escouade Énergie - Regroupement des CCTT en transition énergétique et le Centre National en électrochimie et en Technologies Environnementales (CNETE), en collaboration avec le CITEQ, vous invitent à la Journée recherche appliquée - Filière #batterie , qui aura lieu le 15 mai prochain au DigiHub Shawinigan.
+ 
+ Un panel aura lieu sur le rôle de la recherche appliquée sur la #ZonedInnovation de la Vallée de la transition énergétique (VTE). 
+  
+ Consacré à l’avancement des technologies et de l’innovation de la filière batterie, incluant la production, l'utilisation et la fin de vie des #MCS et la RSE- #ESG des entreprises, l’événement réunira des chercheurs.ses collégiaux, des xn--reprsentants-eeb.es gouvernementaux, des organismes et des gens de l'industrie. À travers de nombreux panels et des activités de réseautage, ceux-ci partageront leur expertise afin de soutenir la filière batterie dans son développement accéléré.
+ 
+ L'évènement est organisé dans le cadre de la #Semainedeléconomieverte de Écotech Québec
+  
+ Cliquez ici pour consulter la programmation et vous inscrire 👉 citeq.ca/journee-recherche-a…
+ 
+ MERCI DE NOUS AIDER À DIFFUSER
+ 
+ Merci à nos commanditaires:
+ InnovÉÉ Innovation Énergie Électrique PRIMA Québec - Pôle de recherche et d'innovation en matériaux avancés du Québec CRITM #RéseauMCS Fonds de recherche du Québec Caisse Desjardins de l'Énergie et des Ressources naturelles Économie du savoir Mauricie
+ 
+ Merci aux autres partenaires qui rendent cet évènement possible:
+ Institut du véhicule innovant CEPROCQ COALIA Nergica
+ Ville de Shawinigan; UQTR - Université du Québec à Trois-Rivières Ministère de l’Économie, de l’Innovation et de l’Énergie du Québec (MEIE) Réseau des CCTT - Synchronex Roulons VERT",2023-04-17,17,4,2023,Nancy Déziel,,"{'neg': 0.005, 'neu': 0.863, 'pos': 0.132, 'compound': 0.9888}",0.9888,Positif,"['entreprise', 'économie', 'développement', 'production', 'vert', 'gouvernement']"
+"➡️Quel est le taux de CO2 dans l'atmosphère, des experts de la transition énergétique tente de répondre à la question ?
+👉Ils doivent mesurer à la louche mais ils n'ont pas tous la même 😂😂😂",2023-04-17,17,4,2023,🌿🌿🌿La Grange d'Emma🐣🐣🐣,,"{'neg': 0.101, 'neu': 0.705, 'pos': 0.194, 'compound': 0.68}",0.68,Positif,[]
+"Non car on parle bien de la transition énergétique de la production. Si l'Allemagne décarbone son mix en achetant du nucléaire français, on est d'accord que ça ne compte pas au titre de l'Energiewende ?",2023-04-17,17,4,2023,Pierre Beyssac 🇫🇷🇪🇺🇺🇦,,"{'neg': 0.0, 'neu': 0.856, 'pos': 0.144, 'compound': 0.5994}",0.5994,Positif,"['nucléaire', 'production', 'français']"
+"On finance comment, Mr le ministre ? Parce que la Commission Européenne va finir par se fâcher, et ce serait un moindre mal (tant que le marché tolère nos déficits). Armée, transition énergétique, justice, santé, école... les besoins de financement sont lourds. Pb d'efficacité ?",2023-04-17,17,4,2023,Vincent Chaigneau,,"{'neg': 0.204, 'neu': 0.647, 'pos': 0.15, 'compound': -0.2892}",-0.2892,Negatif,"['ministre', 'santé', 'besoin']"
+Mmmmm les intelligents de la transition énergétique…..#Reveillez-vous,2023-04-17,17,4,2023,PiBoul,,"{'neg': 0.0, 'neu': 0.768, 'pos': 0.232, 'compound': 0.2047}",0.2047,Positif,[]
+C’est donc ça la transition énergétique dont on nous parle tant,2023-04-17,17,4,2023,Jeanbono,,"{'neg': 0.0, 'neu': 0.775, 'pos': 0.225, 'compound': 0.4404}",0.4404,Positif,[]
+"la voiture électrique s'inscrit dans une perspective de transition énergétique ce qui veut dire électricité verte produite à  partir du solaire entre autre . de plus la voiture électrique est moins polluante dans les villes ,",2023-04-17,17,4,2023,semar redouane,,"{'neg': 0.029, 'neu': 0.808, 'pos': 0.164, 'compound': 0.6908}",0.6908,Positif,"['électrique', 'solaire', 'vert', 'électricité']"
+"Se lancer dans la transition énergétique sans penser à moderniser ce dernier, ni a promouvoir le stockage de masse c'est un gaspillage sans nom. La force des lobbys est démesuré.",2023-04-17,17,4,2023,Petite fleur de Sibérie,,"{'neg': 0.137, 'neu': 0.74, 'pos': 0.123, 'compound': -0.126}",-0.126,Negatif,[]
+"Siemens n'aurait pas quitté le projet EPR sans les antinucléaires,  après avoir imposé des normes compatibles avec les 2 pays et complexifié le projet.",2023-04-17,17,4,2023,Transition énergétique,,"{'neg': 0.042, 'neu': 0.958, 'pos': 0.0, 'compound': -0.1007}",-0.1007,Negatif,"['nucléaire', 'projet']"
+"Ce machin est ministre de la transition énergétique 😂 quel incroyable pays , n’oubliez surtout pas de prendre q’une douche par semaine pour penser à la planète",2023-04-17,17,4,2023,ilqu4ttro,,"{'neg': 0.057, 'neu': 0.751, 'pos': 0.192, 'compound': 0.5423}",0.5423,Positif,"['ministre', 'plan']"
+"Vive la transition énergétique,  la RDC pays solution .
+Nous  avons un leader compétent  qui sait négocier pour l'intérêt de tous .
+vive  son excellence Mr le ministre Julien paluku Kahongya , l'homme qui détient  la force industrielle ce pays.",2023-04-17,17,4,2023,Armand Omatuku,,"{'neg': 0.032, 'neu': 0.708, 'pos': 0.26, 'compound': 0.9041}",0.9041,Positif,"['ministre', 'solution']"
+Oui répond pas sur le fond 😏 du poulet de merde ou steak reconstitué ça vaut rien .  Et l’inflation vien de la transition énergétique verte et prix du pétrole en partie . Merci les écolo d’avoir freiner la prosepection pétrolière ou le nucléaire .,2023-04-17,17,4,2023,George Clemenceau,,"{'neg': 0.049, 'neu': 0.706, 'pos': 0.245, 'compound': 0.9023}",0.9023,Positif,"['pétrole', 'nucléaire', 'vert', 'prix']"
+"Pauvre truffe..vous n'y connaissez vraisemblablement absolument rien..lisez la littérature de l'omi sur la transition énergétique, et vous verrez que des choses sont faites. Que des pays comme la Norvège démarre des unités à H2.Qu'en France des projets sont en phase finale #nulle",2023-04-17,17,4,2023,paf le ouaf,,"{'neg': 0.105, 'neu': 0.81, 'pos': 0.085, 'compound': -0.2547}",-0.2547,Negatif,['projet']
+"Grâce aux KiloActs gagnés en agissant pour la transition énergétique avec ENGIE, je soutiens le projet d'accès au biogaz à Madagascar ! @ENGIEpartFR particuliers.engie.fr/mon_pr… #JagisAvecEngie # MonProgrammePourAgir",2023-04-17,17,4,2023,André Fartoukh,,"{'neg': 0.034, 'neu': 0.736, 'pos': 0.23, 'compound': 0.7707}",0.7707,Positif,['projet']
+"Quel sera l'avenir du chauffage des bâtiments et des réseaux gaziers au 🇨🇦 ? Nos 3 études de cas tirent des leçons à appliquer à la transition énergétique dans le secteur du bâtiment et des réseaux gaziers. Plus d'informations ⬇️ #cdnpoli
+institutclimatique.ca/report…",2023-04-17,17,4,2023,Institut climatique du Canada,,"{'neg': 0.0, 'neu': 0.937, 'pos': 0.063, 'compound': 0.5399}",0.5399,Positif,['climat']
+Ravi d'avoir été à l'inauguration de l'usine de batteries de @LionElectricCo. C’est grâce à des entreprises comme Lion que le Québec peut se vanter d’être un meneur de l’électrification des transports. Une excellente nouvelle pour la transition énergétique et les Laurentides! 🔋,2023-04-17,17,4,2023,Benoit Charette,,"{'neg': 0.024, 'neu': 0.817, 'pos': 0.159, 'compound': 0.7777}",0.7777,Positif,['entreprise']
+"Oh mais ça ne nous regarde pas. Ce n'est qu'un évent mineur sans importance écoute.
+On n'a pas à se mêler de la transition énergétique des autres pays !",2023-04-17,17,4,2023,aldwyr G.,,"{'neg': 0.042, 'neu': 0.866, 'pos': 0.092, 'compound': 0.4114}",0.4114,Positif,[]
+"mes émissions à moi représentent encore bien moins,  donc je cesse de faire des efforts...",2023-04-17,17,4,2023,Transition énergétique,,"{'neg': 0.0, 'neu': 0.914, 'pos': 0.086, 'compound': 0.1053}",0.1053,Positif,[]
+"L'@EU_Commissionet les États-Unis travaillent ensemble pour trouver un accord sur les matériaux critiques pour la transition énergétique, comme cela a été fait avec le Japon. Les pays partenaires économiquement proches des energynews.pro/mineraux-crit…",2023-04-18,18,4,2023,energynews.pro,,"{'neg': 0.074, 'neu': 0.765, 'pos': 0.161, 'compound': 0.3182}",0.3182,Positif,[]
+Transition énergétique: les restrictions d’exportation de métaux stratégiques par certains pays producteurs pourraient freiner la dynamique fr.le360.ma/economie/transit…,2023-04-18,18,4,2023,Le360,,"{'neg': 0.0, 'neu': 0.66, 'pos': 0.34, 'compound': 0.7351}",0.7351,Positif,[]
+"#MapActu 
+
+قطاع النسيج: توقيع بروتوكولي اتفاق لمواكبة الانتقال الطاقي للقطاع
+bit.ly/3MUH70G
+
+Textile : signature de deux protocoles d'accord pour l’accompagnement de la transition énergétique du secteur
+bit.ly/3AaCbgo",2023-04-18,18,4,2023,Agence MAP,,"{'neg': 0.0, 'neu': 0.861, 'pos': 0.139, 'compound': 0.7319}",0.7319,Positif,[]
+"J'essaye de ""vous"" (les pronukes de Twitter qui ""savent"",d'EDF) d'être un peu dans le dialogue. Sinon c'est l'obscurantisme qui gagne. J'ai conscience de me ridiculiser auprès de ma TL ainsi, sinon c'est l'échec de la transition énergétique.",2023-04-18,18,4,2023,FR_Slonner 🌐,,"{'neg': 0.11, 'neu': 0.804, 'pos': 0.086, 'compound': -0.3595}",-0.3595,Negatif,[]
+"France lance une session d'appels d'offres pour plus de 2 GW de projets solaires, soutenant ainsi le développement des énergies renouvelables et la transition énergétique. #energiesrenouvelables #transitionenergetique #solaire #PPE energynews.pro/france-sessio…",2023-04-18,18,4,2023,energynews.pro,,"{'neg': 0.0, 'neu': 0.791, 'pos': 0.209, 'compound': 0.717}",0.717,Positif,"['énergie', 'france', 'projet', 'développement', 'renouvelable', 'solaire']"
+"🥳🥳🥳
+Les dingos de la transition énergétique cueillis de manière magistrale. 👇",2023-04-18,18,4,2023,Le Fab 🌪⚡😤 / 😁🤪 (Secours=@F_PintadeBleue),,"{'neg': 0.06, 'neu': 0.653, 'pos': 0.287, 'compound': 0.7906}",0.7906,Positif,[]
+"Plus de 10 millions de morts, au moins 500 000 femmes violées, des enfants martyrisés et torturés au nom de la transition énergétique, l’un des pires crimes contre l’humanité depuis 1945 se déroule en ce moment et depuis presque 30 ans en RD Congo.
+
+mondafrique.com/holocauste-a…",2023-04-18,18,4,2023,Habyarimana Léon,,"{'neg': 0.216, 'neu': 0.732, 'pos': 0.052, 'compound': -0.8852}",-0.8852,Negatif,[]
+"[𝐀𝐫𝐭𝐢𝐜𝐥𝐞]En Vendée, le biométhane constitue un axe fort pour accélérer la transition énergétique du territoire. Le @SyDEV_85 et sa SEM #VendéeÉnergie accompagnent le dév. des projets de méthanisation et la création d’une boucle énergétique locale. @paysdelaloire @DepVendee @LaurentFavreau @AAMF_Agris @GazRenouvFrance @GRDF @C_MORANCAIS
+📌gazdaujourdhui.fr/en-vendee-…",2023-04-18,18,4,2023,Gaz d'aujourd'hui,,"{'neg': 0.0, 'neu': 0.838, 'pos': 0.162, 'compound': 0.8306}",0.8306,Positif,"['projet', 'accélérer']"
+"Adieu à l'âge fossile -
+Quatre Allemands sur cinq veulent une transition énergétique plus rapide
+spiegel.de/wirtschaft/servic…",2023-04-18,18,4,2023,Jeremy,,"{'neg': 0.0, 'neu': 0.777, 'pos': 0.223, 'compound': 0.5106}",0.5106,Positif,['fossile']
+C'est encourageant de voir que l'Australie a connu une année record en termes de nouvelles constructions d'énergies renouvelables en 2022. La contribution importante de l'énergie éolienne et solaire est une étape cruciale vers une transition énergétique plus propre.👏,2023-04-18,18,4,2023,Machel N Nguema,,"{'neg': 0.071, 'neu': 0.759, 'pos': 0.17, 'compound': 0.629}",0.629,Positif,"['énergie', 'éolien', 'renouvelable', 'solaire']"
+"""Le producteur d'État de phosphates et de fertilisants du Maroc, @ocpgroup, investit dans la transition énergétique en construisant 4 centrales solaires pour alimenter ses opérations industrielles. Un prêt de 100 millions d'euros de energynews.pro/maroc-locp-em…",2023-04-18,18,4,2023,energynews.pro,,"{'neg': 0.0, 'neu': 0.863, 'pos': 0.137, 'compound': 0.69}",0.69,Positif,['solaire']
+Vous développez des solutions digitales pour la transition énergétique en Afrique. Envoyez vos propositions !! 😀,2023-04-18,18,4,2023,Cyril Renault,,"{'neg': 0.0, 'neu': 0.658, 'pos': 0.342, 'compound': 0.7418}",0.7418,Positif,['solution']
+l'électrification est un point important dans la transition,2023-04-18,18,4,2023,Transition énergétique,,"{'neg': 0.0, 'neu': 0.851, 'pos': 0.149, 'compound': 0.1027}",0.1027,Positif,[]
+l'évolution ne montre pas la répartition des productions,2023-04-18,18,4,2023,Transition énergétique,,"{'neg': 0.0, 'neu': 0.741, 'pos': 0.259, 'compound': 0.4215}",0.4215,Positif,['production']
+F*ck la transition énergétique qui est ce que le v*ccin fut à une épidémie pouvant être soignée.,2023-04-18,18,4,2023,Le Pélican #DestitutionDuPR🇫🇷,,"{'neg': 0.0, 'neu': 0.743, 'pos': 0.257, 'compound': 0.6369}",0.6369,Positif,[]
+"Bah non, notre responsabilité collective c’est de faire en sorte que les khmers verts ne torpillent pas la transition énergétique",2023-04-18,18,4,2023,Eric Dupau,,"{'neg': 0.112, 'neu': 0.888, 'pos': 0.0, 'compound': -0.3412}",-0.3412,Negatif,['vert']
+"La transition énergétique du secteur du textile se dessine (VIDEO)
+#marocnews #transition #énergétique #sec...
+marocv.com/la-transition-ene…",2023-04-18,18,4,2023,Marocv.Com,,"{'neg': 0.0, 'neu': 0.684, 'pos': 0.316, 'compound': 0.7193}",0.7193,Positif,[]
+"Rencontre avec les ambassadeurs de l'ASEAN. Nous devons renforcer nos partenariats économiques, échanger nos expertises pour faire face aux défis communs, notamment la transition énergétique.",2023-04-18,18,4,2023,Hadja Lahbib,,"{'neg': 0.0, 'neu': 0.822, 'pos': 0.178, 'compound': 0.6696}",0.6696,Positif,[]
+Tous les jours je vous explique que la transition énergétique est une opportunité de révolution industrielle. Je vous prie de croire que ce n'est pas du tout à prendre à la légère.,2023-04-19,19,4,2023,Temps Actuel,,"{'neg': 0.0, 'neu': 0.718, 'pos': 0.282, 'compound': 0.886}",0.886,Positif,[]
+"Twitter m'a posé un sondage sur la transition énergétique....
+
+Pour ensuite me demander un avis sur @TotalEnergies ..... Pour une fois que j'ai l'occasion de casser du sucre sur leur dos, je ne vais pas m'en priver",2023-04-19,19,4,2023,Michel L. — Flemmard Intrépide,,"{'neg': 0.039, 'neu': 0.66, 'pos': 0.301, 'compound': 0.8884}",0.8884,Positif,[]
+Financer la transition énergétique par la transition politique Française lebourricot.wordpress.com/20…,2023-04-19,19,4,2023,Le Bourricot,,"{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.4404}",0.4404,Positif,['politique']
+MOOC Smart Grids : les réseaux électriques au cœur de la transition énergétique ift.tt/vQbS4Dg,2023-04-19,19,4,2023,Pagestec,,"{'neg': 0.0, 'neu': 0.818, 'pos': 0.182, 'compound': 0.4926}",0.4926,Positif,['électrique']
+"Est-ce un accaparement par la gauche ou un délaissement par la droite?
+
+Parce que c’est clair que « transition énergétique », « développement durable », c’est un peu mou du genou face à l’urgence climatique",2023-04-19,19,4,2023,Berjou,,"{'neg': 0.059, 'neu': 0.807, 'pos': 0.134, 'compound': 0.4754}",0.4754,Positif,"['climat', 'développement', 'durable']"
+"Avec plaisir ! 😄
+
+Alors j'utilise aussi Enerfip pour la transition énergétique. Tu peux avoir 15€ gratuitement juste en validant ton compte avec mon code : CN38PARRAIN
+
+Sinon tu as les Entreprêteurs, Anaxago très pro mais ticket minimum 1000€ et Prêtup. C'est les plateformes que j'utilise le plus.
+
+Si tu veux être parrainé, hésite pas à m'envoyer un message privé 🤝",2023-04-19,19,4,2023,Calo | L'investisseur libre,,"{'neg': 0.066, 'neu': 0.777, 'pos': 0.158, 'compound': 0.8007}",0.8007,Positif,[]
+transition énergétique : Biden veut mettre 67% en électricité mais au niveau pétrole les US sont indépendants c'est étrange mais c'est les n°1 et non arabie ou qatar ! Idéalement Trump devrait revenir mais bon..wokisme et progressisme font des ravages chez les US (en France idem),2023-04-19,19,4,2023,CharlesHenry Delapomme 🇫🇷Z🌿👑,,"{'neg': 0.023, 'neu': 0.859, 'pos': 0.118, 'compound': 0.8003}",0.8003,Positif,"['pétrole', 'électricité']"
+"Manon Aubry dit ça, mais toute la #Nupes souhaite continuer à taxer le carbone, pour leur ""transition énergétique"" de mon 🍑.
+On a déjà du nucléaire et il faut baisser toutes les taxes sur les produits pétroliers et gaziers, pour redonner du pouvoir d'achat aux Français.",2023-04-19,19,4,2023,WincKing,,"{'neg': 0.108, 'neu': 0.782, 'pos': 0.11, 'compound': -0.2263}",-0.2263,Negatif,['nucléaire']
+Moi je la stocke ds le cerveau vide des escrologistes du Ministère de la Transition énergétique.,2023-04-19,19,4,2023,Sam joab,,"{'neg': 0.071, 'neu': 0.769, 'pos': 0.159, 'compound': 0.3818}",0.3818,Positif,[]
+Il ne vous a pas échappé qu'une guerre a éclaté et a déséquilibré les plans de transition énergétique des pays 🇪🇺. En France le problème semble + structurel. Le pays a d'ailleurs été importateur net⚡ en 2022 à l'égard de l'Allemagne. la France a donc profité des centrales 🇩🇪. 😉,2023-04-19,19,4,2023,voldemor,,"{'neg': 0.169, 'neu': 0.749, 'pos': 0.082, 'compound': -0.7308}",-0.7308,Negatif,['plan']
+Les partis qui n’ont rien fait pour la transition énergétique depuis 2003 sont aux premières loges pour critiquer ceux qui essayent de remédier aux lacunes du passé !,2023-04-19,19,4,2023,Alexander,,"{'neg': 0.052, 'neu': 0.844, 'pos': 0.104, 'compound': 0.4374}",0.4374,Positif,[]
+"Travaux impressionnants et tout un savoir faire humain #busratp pour passer une flotte de 4500 bus sur l'ensemble de parc, à la transition énergétique. 👏 
+#iledefrancemobilites lnkd.in/eR8QvKnm",2023-04-19,19,4,2023,isabelle ruault,,"{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.7959}",0.7959,Positif,['france']
+Non seulement des engagements mais des actes puisque la loi de transition énergétique date de 2002 en Allemagne. Elle respecte ses engagements internationaux et européens jusqu'à présent contrairement à la France.,2023-04-19,19,4,2023,voldemor,,"{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.7712}",0.7712,Positif,[]
+Vous êtes plutôt ?,2023-04-19,19,4,2023,A.R.T.E (Agence Régionale Transition Énergétique),,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutre,[]
+Suivez nous pour toutes les #actus,2023-04-19,19,4,2023,A.R.T.E (Agence Régionale Transition Énergétique),,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutre,[]
+"- Après 16h30, Andreas Rüdinger @AndreasRudinger  prendra le relai !
+
+Chercheur à l'IDDRA, il est coordinateur en transition énergétique, et a pu notamment écrire divers rapports. Il vient de publier un fil sur la question sur twitter 👇",2023-04-19,19,4,2023,Adrien Denèle,,"{'neg': 0.045, 'neu': 0.828, 'pos': 0.127, 'compound': 0.4912}",0.4912,Positif,[]
+"Revaloriser les revenus des agriculteurs notamment en forçant la valorisation des producteurs, créer des emplois notamment avec des semaines moins longues (30h-32h peut-être 4 jours) pour plus de cotisants, commencer réellement la transition énergétique (+ emploi > + cotisants)",2023-04-19,19,4,2023,Noah φ🧤🇫🇷,,"{'neg': 0.0, 'neu': 0.781, 'pos': 0.219, 'compound': 0.8439}",0.8439,Positif,[]
+"Contredire votre doxa c'est faire un hors sujet, je le sais bien. Seule votre doctrine prévaut. Il reste que la transition énergétique des grünen à date vs Co2 c'est de la daube. Comme vous aimez les chiffres cadeau ⤵️",2023-04-19,19,4,2023,Harry Cover,,"{'neg': 0.088, 'neu': 0.699, 'pos': 0.214, 'compound': 0.7644}",0.7644,Positif,[]
+Elle conforte TSE comme un acteur majeur de l’énergie solaire et de la transition énergétique en France et permettra à la société de continuer son développement dans les domaines de l’agrivoltaïsme et de la R&D.,2023-04-19,19,4,2023,TSE,,"{'neg': 0.0, 'neu': 0.853, 'pos': 0.147, 'compound': 0.7418}",0.7418,Positif,"['énergie', 'développement', 'solaire']"
+C’est un moment important pour TSE : nous sommes très heureux de vous annoncer la clôture d’une levée de fonds de 130 millions d’€ auprès de trois acteurs majeurs de la transition énergétique.,2023-04-19,19,4,2023,TSE,,"{'neg': 0.0, 'neu': 0.783, 'pos': 0.217, 'compound': 0.8469}",0.8469,Positif,[]
+"RATP (Bus)
+
+🌿Depuis le 19/04/23, la ligne 145 (Pantin <> Villemomble) a débuté sa transition énergétique en mettant en service son 1er IvecoBus UW12GNV Biométhane Cursor 9... 🌿
+
+✅ Climatisation 
+✅ Gaz
+✅ Girouettes blanches
+✅ Prises USB  
+✅ Écran dynamique d'info voyageurs",2023-04-20,20,4,2023,Claude-Henry & ses périples,,"{'neg': 0.189, 'neu': 0.692, 'pos': 0.118, 'compound': -0.7763}",-0.7763,Negatif,[]
+"Le rapport rendu ce vendredi à @AgnesRunacher, la ministre de la Transition énergétique, dans le cadre du programme Match, est éloquent. Il faudra créer au moins 100.000 emplois entre 2023 et 2033. lefigaro.fr/societes/la-cour…",2023-04-20,20,4,2023,Benoît Chamboncel,,"{'neg': 0.0, 'neu': 0.861, 'pos': 0.139, 'compound': 0.6124}",0.6124,Positif,['ministre']
+_xDCE2__xD83D_ Défis de l'employabilité avec la transition énergétique ? 💡 Adaptation de l'offre de formation ? 💼 Secteurs de l'énergie porteurs pour les emplois ? 🤔 Disponibilité d'emplois de qualité et accessibles ? 🗓️ Inscription : attendee.gotowebinar.com/reg… #emplois #formation #énergie,2023-04-20,20,4,2023,IFDD,,"{'neg': 0.0, 'neu': 0.924, 'pos': 0.076, 'compound': 0.6312}",0.6312,Positif,['énergie']
+"« C’est un pied de nez au Québec. On se fait déshabiller par le gouvernement fédéral», a déploré le porte-parole du Bloc en matière d’Industrie. « Je m’attends à ce que le reste des investissements se fassent au Québec. Nous étions les leaders dans la transition énergétique »",2023-04-20,20,4,2023,Sébastien Lemire,,"{'neg': 0.1, 'neu': 0.846, 'pos': 0.055, 'compound': -0.34}",-0.34,Negatif,"['gouvernement', 'matière']"
+"Chère @_EvaSas En #Allemagne ils n'ont pas attendu 2027! 👉Il est déjà de 2,6% en 2022, sans pour autant sacrifier les dépenses publiques, ni la transition énergétique...",2023-04-20,20,4,2023,Pierre Maurin,,"{'neg': 0.072, 'neu': 0.804, 'pos': 0.124, 'compound': 0.3911}",0.3911,Positif,[]
+Transition énergétique 🇩🇪👌🏻,2023-04-20,20,4,2023,🅰️𝐥𝐞𝐱𝐚𝐧𝐝𝐫𝐞 𝐉𝐞𝐚𝐧,,"{'neg': 0.0, 'neu': 0.495, 'pos': 0.505, 'compound': 0.6588}",0.6588,Positif,[]
+_xDCC3__xD83D_ Le 1er conseil d’administration de la Fondation OPEN-C installe Frédéric Moncany à sa présidence et Bertrand Alessandrini à la direction générale. La Fondation OPEN-C va pleinement contribuer comme leader européen à la transition énergétique dans l'éolien flottant et les #EMR.,2023-04-20,20,4,2023,Fondation OPEN-C,,"{'neg': 0.0, 'neu': 0.934, 'pos': 0.066, 'compound': 0.5826}",0.5826,Positif,['éolien']
+"Métaux stratégiques de l'Afrique pour la transition énergétique mondiale
+
+#salon #mines #simc #casablabca #métaux #afrique #africa #mininig #ocp #cadex #menaraholding lnkd.in/enzGdHia",2023-04-20,20,4,2023,Magazine Energie,,"{'neg': 0.0, 'neu': 0.798, 'pos': 0.202, 'compound': 0.6486}",0.6486,Positif,['mondial']
+"il est juste que les acteurs publics[…]soient aussi mis à contribution"".Mais au fait, c'est quoi la dépense publique en dehors des traitements et pensions des 3  fonctions publiques,des prestations sociales,des subventions (pour  financer la transition énergétique notamment),",2023-04-20,20,4,2023,Jean Condamine 🇫🇷 🇪🇸 🇬🇧 👍🍻🍺🤔🧐😉👌🥂🍾,,"{'neg': 0.0, 'neu': 0.931, 'pos': 0.069, 'compound': 0.4404}",0.4404,Positif,"['financer', 'public']"
+"Roland Lescure et de la ministre de la transition énergétique Agnès Pannier-Runacher sur le site de la centrale nucléaire du Tricastin dans la Drôme 
+* TOULOUSE (31) : 11h Lycée Hôtelier - Visite de la ministre déléguée à l'enseignement et de la formation professionnelle",2023-04-20,20,4,2023,Daniel Moore 🇷🇺🇷🇺🇷🇺,,"{'neg': 0.0, 'neu': 0.911, 'pos': 0.089, 'compound': 0.6341}",0.6341,Positif,"['ministre', 'nucléaire']"
+"Plus de 10 millions de morts, au moins 500 000 femmes violées, des enfants martyrisés et torturés au nom de la transition énergétique, l’un des pires crimes contre l’humanité depuis 1945 se déroule en ce moment et depuis presque 30 ans en RD Congo.
+#RWANDAISKILLING 🇨🇩",2023-04-20,20,4,2023,Epopo yanick,,"{'neg': 0.216, 'neu': 0.732, 'pos': 0.052, 'compound': -0.8924}",-0.8924,Negatif,[]
+"d'où l'hydrogène pour stocker les Enr, la France ne fera donc pas partie des gagnants de la transition énergétique mondiale",2023-04-20,20,4,2023,John3 Major3,,"{'neg': 0.1, 'neu': 0.786, 'pos': 0.114, 'compound': 0.089}",0.089,Positif,['mondial']
+"LA TRANSITION ENERGETIQUE : 5/05 - 10H/11H  📷 Enjeux climatiques, énergétiques et environnementaux 📷 Mobilité verte  📷 Efficacité énergétique 📷 Production d'énergie 📷 Financement et investissements ""Green"" 📷lnkd.in/eFbVdu8v #transitionenergétique #mobiliteverte",2023-04-20,20,4,2023,URIOPSS BFC,,"{'neg': 0.0, 'neu': 0.746, 'pos': 0.254, 'compound': 0.9245}",0.9245,Positif,"['énergie', 'climat', 'vert']"
+"La discussion avec le Congrès Américain tourne autour des enjeux du moment tels que la réforme du FMI et de la Banque Mondiale, la transition énergétique juste, la santé,  l'éducation et le nouveau Compact régional du MCC pour le Sénégal. #Senegal #kebetu",2023-04-20,20,4,2023,Oulimata Sarr,,"{'neg': 0.026, 'neu': 0.911, 'pos': 0.063, 'compound': 0.508}",0.508,Positif,"['nouveau', 'santé']"
+"Après le rejet de la loi sur le CO2, l'UDC veut à nouveau bloquer une étape importante pour la transition énergétique. Deviens dès maintenant ambassadeur-trice pour plus de protection du climat : sp-ps.ch/loi-sur-la-protecti…",2023-04-20,20,4,2023,Weerachai Jailangka,,"{'neg': 0.119, 'neu': 0.736, 'pos': 0.145, 'compound': -0.0}",-0.0,Neutre,"['climat', 'nouveau']"
+"Juste avant de quitter @ZenonResearch j’ai été interviewé sur le sujet de la prospective et des dynamiques dans la transition énergétique.
+L’article est disponible ici
+
+polytechnique-insights.com/t…",2023-04-20,20,4,2023,Greg De Temmerman,,"{'neg': 0.039, 'neu': 0.749, 'pos': 0.212, 'compound': 0.6486}",0.6486,Positif,[]
+"Concours Ministère de la Transition Energétique 2023 (30 Postes)
+buff.ly/3N0pVGZ",2023-04-20,20,4,2023,أخبار الوظيفة,,"{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.5399}",0.5399,Positif,[]
+"Lu sur France 24 : ""TRANSITION ÉNERGÉTIQUE
+Arrêt du nucléaire en Allemagne : Berlin met les gaz sur les énergies renouvelables""
+
+""L’Allemagne a mis à l’arrêt, samedi, ses trois derniers réacteurs nucléaires en activité.""
+
+Publié ce jour : f24.my/9Q6E",2023-04-20,20,4,2023,Français Debout,,"{'neg': 0.0, 'neu': 0.816, 'pos': 0.184, 'compound': 0.7856}",0.7856,Positif,"['énergie', 'nucléaire', 'renouvelable']"
+Appel de l'intersyndicale de Tricastin dans la Drôme pour la visite de 2 ministres de la transition énergétique et de l'industrie demain,2023-04-20,20,4,2023,Sous secrétaire d'étable à l'épanouissement Bovin,,"{'neg': 0.0, 'neu': 0.888, 'pos': 0.112, 'compound': 0.4404}",0.4404,Positif,['ministre']
+"Sans sobriété massive, aucune décarbonation réelle de notre industrie n’est possible …
+
+Et sans production massive de métaux, pas de transition énergétique :
+Le recyclage ne suffira pas  nouvelobs.com/opinions/20230…",2023-04-21,21,4,2023,OlivierFrancois6020ن,,"{'neg': 0.074, 'neu': 0.926, 'pos': 0.0, 'compound': -0.3412}",-0.3412,Negatif,['production']
+Et c'est qui qui qui va s'en mettre plein les fouilles avec la transition énergétique et les énergies renouvelables ? 😁🤣,2023-04-21,21,4,2023,Pierrick THEVENON 🍀🐺⚖️🔥,,"{'neg': 0.03, 'neu': 0.685, 'pos': 0.284, 'compound': 0.8402}",0.8402,Positif,"['énergie', 'renouvelable']"
+"Samedi 22 avril à 8h40 (heure de Paris) Mme @AgnesRunacher, ministre de la Transition énergétique et Présidente du CN de sera l'invitée de @matthieurouault et @montmarguerite sur @RMCInfo dans la #MatinaleWERMC",2023-04-21,21,4,2023,Territoires de Progrès - Français de l'Etranger,,"{'neg': 0.0, 'neu': 0.875, 'pos': 0.125, 'compound': 0.5972}",0.5972,Positif,['ministre']
+"Samedi 22 avril à 8h40 (heure de Paris) Mme @AgnesRunacher, ministre de la Transition Énergétique  et Présidente du CN du Parti @TerresDeProgres sera l'invitée de @matthieurouault et @montmarguerite sur @RMCInfo dans la #MatinaleWERMC",2023-04-21,21,4,2023,Jean-Philippe Audren,,"{'neg': 0.0, 'neu': 0.885, 'pos': 0.115, 'compound': 0.5972}",0.5972,Positif,['ministre']
+"_xDF99__xD83C_ @AgnesRunacher, ministre de la Transition énergétique sera l'invitée de @matthieurouault et @montmarguerite demain à 8h40 dans la #MatinaleWERMC",2023-04-21,21,4,2023,Benoît Chamboncel,,"{'neg': 0.0, 'neu': 0.868, 'pos': 0.132, 'compound': 0.4404}",0.4404,Positif,['ministre']
+Total est une société qui exploite du pétrole et du gaz (dont vous et moi avons encore besoin pour quelques années). Ce sont surtout d’autres sociétés qui sont les acteurs majeurs de la transition énergétique,2023-04-21,21,4,2023,BabyloneHenriIV,,"{'neg': 0.077, 'neu': 0.848, 'pos': 0.075, 'compound': -0.0258}",-0.0258,Neutre,"['pétrole', 'besoin']"
+Transition énergétique : Pourquoi les éoliennes sèment-elles autant la discorde ? - goo.gl/alerts/ypNS16 #GoogleAlerts,2023-04-21,21,4,2023,J-M Chardon,,"{'neg': 0.153, 'neu': 0.682, 'pos': 0.165, 'compound': 0.0516}",0.0516,Positif,['éolien']
+"HAITI TEC, un Centre de formation de qualité, participant à la 13ème Édition du Sommet International de la Finance annonce son positionnement stratégique pour la transition énergétique.",2023-04-21,21,4,2023,Kesner Pharel,,"{'neg': 0.0, 'neu': 0.842, 'pos': 0.158, 'compound': 0.6467}",0.6467,Positif,[]
+"_xDF99__xD83C_@AgnesRunacher, ministre de la Transition énergétique sera l'invitée de @matthieurouault et @montmarguerite demain à 8h40 sur @RMCInfo dans la #MatinaleWERMC",2023-04-21,21,4,2023,Territoires de Progrès,,"{'neg': 0.0, 'neu': 0.815, 'pos': 0.185, 'compound': 0.5106}",0.5106,Positif,['ministre']
+"Solaire pour faire rentrer le fumeur, la transition énergétique n’est pas bonne.",2023-04-21,21,4,2023,Marvin,,"{'neg': 0.216, 'neu': 0.593, 'pos': 0.191, 'compound': 0.1571}",0.1571,Positif,[]
+"Roland Lescure, ministre de l’Industrie et Agnès Pannier-Runacher, ministre de la Transition énergétique - ici à Tricastin - n’ont certainement pas encore conscience, comme il se doit, des crises à venir #gestiondeleau #energierenouvelable",2023-04-21,21,4,2023,Alexis Boudaud Anduaga,,"{'neg': 0.0, 'neu': 0.854, 'pos': 0.146, 'compound': 0.6486}",0.6486,Positif,"['ministre', 'renouvelable']"
+"La transition énergétique : c'est  la baisse forcée de la consommation, par l'appauvrissement.",2023-04-21,21,4,2023,Maître Po,,"{'neg': 0.172, 'neu': 0.677, 'pos': 0.151, 'compound': 0.1531}",0.1531,Positif,['consommation']
+Pour une transition énergétique respectueuse des dernières rivières sauvages ledevoir.com/opinion/libre-o…,2023-04-21,21,4,2023,giusy glo,,"{'neg': 0.189, 'neu': 0.44, 'pos': 0.371, 'compound': 0.4404}",0.4404,Positif,[]
+"{FR Fighting Stigma} Scaling Up to Phase Down : Financer la transition énergétique dans les pays en développement: Ces pays sont de fait soumis à une triple peine et pris au piège de la pauvreté. Selon le Groupe de la Banque mondiale, les pays à revenu… dlvr.it/Smslrp",2023-04-21,21,4,2023,Stigmabase | LANG,,"{'neg': 0.198, 'neu': 0.75, 'pos': 0.052, 'compound': -0.8172}",-0.8172,Negatif,"['développement', 'mondial']"
+"Avec les contraintes de la transition énergétique, les petits propriétaires bradent leur bien au profit des grosses boites qui ont les moyens de faire des travaux….un vrai scandale , façon Macron",2023-04-21,21,4,2023,thomas france,,"{'neg': 0.141, 'neu': 0.677, 'pos': 0.182, 'compound': 0.1531}",0.1531,Positif,[]
+Journée internationale de la terre. La société Civile environnementale socearuco dit non à la geoingenierie en Afrique et énergie fossile dans les zones fragiles en RDC. Oui aux minerais stratégiques pour la transition énergétique durable.,2023-04-21,21,4,2023,josué ARUNA ,,"{'neg': 0.0, 'neu': 0.921, 'pos': 0.079, 'compound': 0.4926}",0.4926,Positif,"['énergie', 'fossile', 'durable']"
+"Bah on est content d’avoir l’avis de @SoMabrouk sur la chrétienté hashtag vraie foi 
+Demain Raymond Domenech viendra nous parler transition énergétique",2023-04-21,21,4,2023,Alexis 🇫🇷🇺🇦,,"{'neg': 0.0, 'neu': 0.738, 'pos': 0.262, 'compound': 0.7269}",0.7269,Positif,[]
+"@GreenvoltR poursuit son engagement en faveur de la transition énergétique en remportant 5% de la capacité mise en vente lors de la première enchère de l'année en Allemagne. Grâce à sa filiale MaxSolar, le groupe renforce ainsi sa energynews.pro/greenvolt-ren…",2023-04-22,22,4,2023,energynews.pro,,"{'neg': 0.055, 'neu': 0.646, 'pos': 0.299, 'compound': 0.8955}",0.8955,Positif,[]
+"Malheureusement la gauche croit vivre de taxes alors que ce sont les entrepreneurs qui créent la richesse et les emplois de notre pays. C’est bien l’esprit d’initiative qui fera avancer la transition énergétique, pas le GIEC.",2023-04-22,22,4,2023,M🇺🇦🍉,,"{'neg': 0.039, 'neu': 0.683, 'pos': 0.278, 'compound': 0.8687}",0.8687,Positif,[]
+"Je ne suis pas certaine que vous soyez au courant, la transition énergétique ne se fera pas sans plastique. Je ne parle pas du jetable ici mais des technos de production d’énergie, des véhicules, batteries…. Bref je crains qu’il y ait un biais dans votre article.",2023-04-22,22,4,2023,Kako,,"{'neg': 0.031, 'neu': 0.909, 'pos': 0.06, 'compound': 0.3361}",0.3361,Positif,"['énergie', 'production']"
+"Idem pour la transition énergétique ! Voir pire un ECOCIDE !
+piped.video/_DDewMGewkQ",2023-04-22,22,4,2023,Letchimy Xavier,,"{'neg': 0.222, 'neu': 0.603, 'pos': 0.175, 'compound': -0.2677}",-0.2677,Negatif,[]
+L'Allemagne dit adieu à l'énergie atomique après plus de 20 ans de transition énergétique vers les énergies renouvelables. Mais la dépendance au charbon reste un défi à relever. #TransitionEnergetique #EnergieRenouvelable energynews.pro/lallemagne-so…,2023-04-22,22,4,2023,energynews.pro,,"{'neg': 0.0, 'neu': 0.831, 'pos': 0.169, 'compound': 0.6588}",0.6588,Positif,"['énergie', 'allemagne', 'renouvelable', 'charbon']"
+"_xDCE3__xD83D_ Pour comprendre ce qui nous attend avec l’accélération du déploiement des #éoliennes, regardez ici 👉 ecep51.fr/la-destruction-des… ces deux vidéos, l’une nocturne, l’autre diurne❗️Ce n’est pas de la transition énergétique, c’est de la torture.",2023-04-22,22,4,2023,Sites & Monuments,,"{'neg': 0.042, 'neu': 0.856, 'pos': 0.103, 'compound': 0.3612}",0.3612,Positif,['éolien']
+"Combien, dans le désordre, pour la santé, l'enseignement, le logement, la nourriture, l'agriculture biologique, l'environnement globalement, la ""transition énergétique""sans nucléaire, la juste répartition des richesses ?
+Ras le bol des oligarques qui ne pensent qu'à leur confort",2023-04-22,22,4,2023,Deepo103,,"{'neg': 0.04, 'neu': 0.837, 'pos': 0.123, 'compound': 0.5859}",0.5859,Positif,"['nucléaire', 'santé']"
+"Représenter la RDC en Chine a été l'occasion de donner une voix à notre pays mais aussi à la jeunesse.
+""On ne peut pas penser agriculture et transition énergétique sans développement industriel, formation technique, infrastructure et sans la RDC""
+#ChinaAfricaYouthFestival",2023-04-22,22,4,2023,Tisya Mukuna - La Kinoise,,"{'neg': 0.0, 'neu': 0.932, 'pos': 0.068, 'compound': 0.4926}",0.4926,Positif,['développement']
+"Une étape décisive dans la transition énergétique ! @Cepsa et #BioOils s'associent pour construire la plus grande usine de biocarburants en Europe du Sud, pour un investissement d'un milliard d'euros. Une initiative clé pour la energynews.pro/cepsa-et-bioo…",2023-04-22,22,4,2023,energynews.pro,,"{'neg': 0.0, 'neu': 0.839, 'pos': 0.161, 'compound': 0.7088}",0.7088,Positif,[]
+"La Tanzanie mise sur l'énergie renouvelable. Avec la construction de la centrale hydroélectrique de Kakono, le pays franchit une nouvelle étape dans sa transition énergétique. #EnergieRenouvelable #KakonoHydropowerPlant #Tanzanie energynews.pro/projet-hydroe…",2023-04-22,22,4,2023,energynews.pro,,"{'neg': 0.037, 'neu': 0.831, 'pos': 0.132, 'compound': 0.4767}",0.4767,Positif,"['énergie', 'projet', 'électrique', 'renouvelable']"
+"À partir du moment où un candidat est pro « transition énergétique » pour « sauver la planète » c’est fini! 
+
+Il sert l’agenda des banques, il est donc mondialiste…
+
+Donc il jouait..",2023-04-22,22,4,2023,TIGER⚜,,"{'neg': 0.029, 'neu': 0.809, 'pos': 0.162, 'compound': 0.7508}",0.7508,Positif,"['plan', 'mondial']"
+Ce qui est demago c’est de mettre un hashtag transition énergétique sur la coque du bateau,2023-04-22,22,4,2023,Sophie Camard,,"{'neg': 0.0, 'neu': 0.765, 'pos': 0.235, 'compound': 0.5106}",0.5106,Positif,[]
+"Au Ghana, pas de transition énergétique sans le secteur privé
+                         
+                            ift.tt/aJI2ums",2023-04-22,22,4,2023,Maurice NONTONDJI,,"{'neg': 0.035, 'neu': 0.927, 'pos': 0.038, 'compound': 0.0382}",0.0382,Neutre,[]
+TESLA a établi la voiture électrique. Nous établissons un logement abordable et une transition énergétique fonctionnelle avec une disruption dans les maisons. fr.gemini-next-generation.ho…,2023-04-22,22,4,2023,Mösl Roland,,"{'neg': 0.0, 'neu': 0.884, 'pos': 0.116, 'compound': 0.4926}",0.4926,Positif,['électrique']
+"Vous avez dilapidé 120 milliards dans la transition énergétique, détruit le nucléaire français...fermez là !",2023-04-22,22,4,2023,Fred,,"{'neg': 0.114, 'neu': 0.703, 'pos': 0.184, 'compound': 0.3806}",0.3806,Positif,"['nucléaire', 'français']"
+"Ils sont incompétents, ils n'ont rien réformé alors ils se victimisent. 120 milliards dilapidés pour la transition énergétique qui coûte des emplois, des points de croissance de la dette pour aucun résultat. 3.000 milliards de dettes et toujours rien 
+ lepoint.fr/politique/aurore-…",2023-04-22,22,4,2023,Fred,,"{'neg': 0.167, 'neu': 0.725, 'pos': 0.108, 'compound': -0.3786}",-0.3786,Negatif,['politique']
+"_xDCA1__xD83D_ Pour profiter au mieux de la transition #énergétique et anticiper les inévitables changements de mode de consommation, moderniser votre #domicile semble être une bonne chose à faire. Afin de rendre certains usages plus pratiques et de les (...) guyhoquet.apibots.io/content…",2023-04-22,22,4,2023,Guy Hoquet Ermont,,"{'neg': 0.06, 'neu': 0.679, 'pos': 0.261, 'compound': 0.7965}",0.7965,Positif,['consommation']
+"_xDF0D__xD83C_ En conclusion, la logistique urbaine est un enjeu structurel pour la transition énergétique. En combinant mobilité douce, véhicules électriques, transport multimodal, hubs logistiques et technologie, nous pouvons construire des villes agréables à vivre, et plus durables.",2023-04-22,22,4,2023,Ahmed Guenaoui,,"{'neg': 0.0, 'neu': 0.774, 'pos': 0.226, 'compound': 0.872}",0.872,Positif,"['électrique', 'durable']"
+"Pour aller + loin, rejoignez notre webinaire avec des acteurs de la transition énergétique dans ce domaine : Héloïse Barbat, fondatrice de CosyColis et Christophe Martins, co-fondateur de DeliverMe City. Inscription ⏩ app.livestorm.co/p/e35702ec-…",2023-04-22,22,4,2023,Ahmed Guenaoui,,"{'neg': 0.0, 'neu': 0.871, 'pos': 0.129, 'compound': 0.5994}",0.5994,Positif,[]
+"Partagez ce thread pour que vos connaissances en apprennent plus sur les problématiques sous-estimées de la logistique urbaine et suivez-moi pour en apprendre plus sur les enjeux de la transition énergétique !
+
+#logistiqueurbaine #transitionenergetique",2023-04-22,22,4,2023,Ahmed Guenaoui,,"{'neg': 0.113, 'neu': 0.699, 'pos': 0.188, 'compound': 0.6256}",0.6256,Positif,[]
