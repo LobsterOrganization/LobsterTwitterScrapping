@@ -22,7 +22,6 @@ Composé de 2 parties :
 * Le dossier **pythonFile** contenant les codes Python de notre projet de scrapping en fonction :
     * des tweets
     * des acteurs
-    * ainsi que toutes l'analyse de ces dernières en faisant appel à du ML et algorithmes de classification :
-        DESCRIPTION DE CHAQUE FICHIER
-    Un sous-dossier **exportFile** contenant nos datasets (FAIRE LE MERGE)
-* Le dossier
+    * ainsi que toutes l'analyse de ces dernières en faisant appel à du ML, NLP et algorithmes de classification.
+    Un sous-dossier **exportFile** contenant nos datasets
+* Le dossier **PDF** contenant les fichiers importants liés aux études sur la transition énergétique et écologique. Vous trouverez également [notre étude sur ce lien](https://docs.google.com/document/d/1uBqRIoyZMq7XLkuAlY3Y285t3bhL9cLGZdFzzptMBLA/edit?usp=sharing).
